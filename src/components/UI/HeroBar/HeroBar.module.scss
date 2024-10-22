@@ -1,0 +1,19 @@
+.secondary_hero {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 160px;
+    background-color: #F9F9F9;
+    .container {
+        width: 95%;
+        max-width: 1370px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+}
+
+.column {
+    flex-direction: column;
+}

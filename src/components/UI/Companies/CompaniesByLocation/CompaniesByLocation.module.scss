@@ -1,0 +1,47 @@
+.companies_by_location {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-block: 40px;
+    .container {
+        width: 95%;
+        max-width: 1370px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 40px;
+        .title {
+            width: 100%;
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            align-items: center;
+            transition: 0.3s;
+            z-index: 2;
+            .wrapper_filters {
+              display: flex;
+              flex-direction: row;
+              align-items: center;
+              justify-content: center;
+              gap: 20px;
+            }
+        }
+        .pagination {
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            gap: 50px;
+            
+        }
+    }
+    .filters_showed {
+        .title {
+            transition: 0.3s;
+            margin-bottom: 100px;
+        }
+    }
+}

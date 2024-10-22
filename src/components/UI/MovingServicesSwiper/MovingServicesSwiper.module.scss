@@ -1,0 +1,18 @@
+.slide {
+  margin-top: 100px;
+  .service_slide {
+    width: 320px;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+    padding-bottom: 70px;
+    background-color: #EBFAFD;
+    border-radius: 15px;
+    img {
+      position: absolute;
+      top: -30%;
+    }
+  }
+}

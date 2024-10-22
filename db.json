@@ -1,0 +1,3019 @@
+{
+  "companies": [
+    {
+      "id": "1",
+      "logo": "",
+      "name": "California Movers USA",
+      "addres": [
+        {
+          "location": "Los Angeles",
+          "lat": "34.052238",
+          "lng": "-118.243340"
+        },
+        {
+          "location": "San Diego",
+          "lat": "32.715760",
+          "lng": "-117.163820"
+        },
+        {
+          "location": "San Jose",
+          "lat": "37.335480",
+          "lng": "-121.893028"
+        },
+        {
+          "location": "Oakland",
+          "lat": "37.804363",
+          "lng": "-122.271111"
+        },
+        {
+          "location": "San Francisco",
+          "lat": "37.773972",
+          "lng": "-122.431297"
+        }
+      ],
+      "tags": [
+        "popular"
+      ],
+      "tel": "(415) 579-2747",
+      "rating": 4.1,
+      "services": [
+        "Local Movers",
+        "Long Distance",
+        "Storages",
+        "State to State",
+        "Office Movers",
+        "Piano Movers"
+      ],
+      "info": {
+        "images": [
+          "/image-placeholder.jpg",
+          "/moving_service_exaplme_1.jpg",
+          "/moving_service_exaplme_2.jpg",
+          "/moving_service_exaplme_3.jpg"
+        ],
+        "description": "California Movers USA is a leading moving company throughout the state in San Francisco, Los Angeles, San Diego, Sacramento, San Jose, Santa Clara, and the other parts of the state. Services are offered in all corners of the state. This is a full-service mover and packer offering both long-distance and short-distance moving for homes and offices, packing, and also storage services. \n\n They can move piano, furniture, appliances, china, glassware, electrical gadgets, both regular and high-value items. They have small and huge trucks of different sizes, blankets, boxes, plastic wraps, and all the tools to make the move easy and smooth. \n\n California Movers USA is a fully licensed and insured moving company in the state. The staff members are well trained and thorough professionals. The moving solutions are flexible and completely customized to the needs of their home or office customers. Moves can be scheduled during the week or on the weekend, during the daytime or late in the evening, according to the client convenience. California Movers USA is a leading relocation company in the state now. They have received many 5-star reviews from both home and office customers. ",
+        "pros": [
+          "Moves throughout the state",
+          "Fully licensed and insured",
+          "Both home and office moves",
+          "Large and small trucks",
+          "Timely arrival",
+          "Same team load, drive, unload",
+          "100% satisfaction guarantee",
+          "No hidden costs"
+        ],
+        "cons": [
+          "Does not provide international move",
+          "Works all over the west coast of the US only"
+        ]
+      }
+    },
+    {
+      "id": "2",
+      "logo": "",
+      "name": "Atlant Movers",
+      "addres": [
+        {
+          "location": "Ontario",
+          "lat": "34.063350",
+          "lng": "-117.652400"
+        },
+        {
+          "location": "Los Angeles",
+          "lat": "34.052238",
+          "lng": "-118.243340"
+        },
+        {
+          "location": "Oakland",
+          "lat": "37.804363",
+          "lng": "-122.271111"
+        },
+        {
+          "location": "San Francisco",
+          "lat": "37.773972",
+          "lng": "-122.431297"
+        }
+      ],
+      "tags": [
+        "popular"
+      ],
+      "tel": "1-916-694-1174",
+      "rating": 3.6,
+      "services": [
+        "Local Movers",
+        "Storages",
+        "Office Movers",
+        "Piano Movers"
+      ],
+      "info": {
+        "images": [
+          "/image-placeholder.jpg",
+          "/moving_service_exaplme_1.jpg",
+          "/moving_service_exaplme_2.jpg",
+          "/moving_service_exaplme_3.jpg"
+        ],
+        "description": "California Movers USA is a leading moving company throughout the state in San Francisco, Los Angeles, San Diego, Sacramento, San Jose, Santa Clara, and the other parts of the state. Services are offered in all corners of the state. This is a full-service mover and packer offering both long-distance and short-distance moving for homes and offices, packing, and also storage services. \n\n They can move piano, furniture, appliances, china, glassware, electrical gadgets, both regular and high-value items. They have small and huge trucks of different sizes, blankets, boxes, plastic wraps, and all the tools to make the move easy and smooth. \n\n California Movers USA is a fully licensed and insured moving company in the state. The staff members are well trained and thorough professionals. The moving solutions are flexible and completely customized to the needs of their home or office customers. Moves can be scheduled during the week or on the weekend, during the daytime or late in the evening, according to the client convenience. California Movers USA is a leading relocation company in the state now. They have received many 5-star reviews from both home and office customers. ",
+        "pros": [
+          "Moves throughout the state",
+          "Fully licensed and insured",
+          "Both home and office moves",
+          "Large and small trucks",
+          "Timely arrival",
+          "Same team load, drive, unload",
+          "100% satisfaction guarantee",
+          "No hidden costs"
+        ],
+        "cons": [
+          "Does not provide international move",
+          "Works all over the west coast of the US only"
+        ]
+      }
+    },
+    {
+      "id": "3",
+      "logo": "",
+      "name": "BlackHawk Movers",
+      "addres": [
+        {
+          "location": "Ontario",
+          "lat": "34.063350",
+          "lng": "-117.652400"
+        },
+        {
+          "location": "San Diego",
+          "lat": "32.715760",
+          "lng": "-117.163820"
+        },
+        {
+          "location": "San Jose",
+          "lat": "37.335480",
+          "lng": "-121.893028"
+        },
+        {
+          "location": "Oakland",
+          "lat": "37.804363",
+          "lng": "-122.271111"
+        },
+        {
+          "location": "San Francisco",
+          "lat": "37.773972",
+          "lng": "-122.431297"
+        }
+      ],
+      "tags": [],
+      "tel": "1-510-974-7588",
+      "rating": 4.5,
+      "services": [
+        "Local Movers",
+        "Long Distance",
+        "Storages",
+        "State to State"
+      ],
+      "info": {
+        "images": [
+          "/image-placeholder.jpg",
+          "/moving_service_exaplme_1.jpg",
+          "/moving_service_exaplme_2.jpg",
+          "/moving_service_exaplme_3.jpg"
+        ],
+        "description": "California Movers USA is a leading moving company throughout the state in San Francisco, Los Angeles, San Diego, Sacramento, San Jose, Santa Clara, and the other parts of the state. Services are offered in all corners of the state. This is a full-service mover and packer offering both long-distance and short-distance moving for homes and offices, packing, and also storage services. \n\n They can move piano, furniture, appliances, china, glassware, electrical gadgets, both regular and high-value items. They have small and huge trucks of different sizes, blankets, boxes, plastic wraps, and all the tools to make the move easy and smooth. \n\n California Movers USA is a fully licensed and insured moving company in the state. The staff members are well trained and thorough professionals. The moving solutions are flexible and completely customized to the needs of their home or office customers. Moves can be scheduled during the week or on the weekend, during the daytime or late in the evening, according to the client convenience. California Movers USA is a leading relocation company in the state now. They have received many 5-star reviews from both home and office customers. ",
+        "pros": [
+          "Moves throughout the state",
+          "Fully licensed and insured",
+          "Both home and office moves",
+          "Large and small trucks",
+          "Timely arrival",
+          "Same team load, drive, unload",
+          "100% satisfaction guarantee",
+          "No hidden costs"
+        ],
+        "cons": [
+          "Does not provide international move",
+          "Works all over the west coast of the US only"
+        ]
+      }
+    },
+    {
+      "id": "4",
+      "logo": "",
+      "name": "Davidson Movers",
+      "addres": [
+        {
+          "location": "Ontario",
+          "lat": "34.063350",
+          "lng": "-117.652400"
+        },
+        {
+          "location": "Los Angeles",
+          "lat": "34.052238",
+          "lng": "-118.243340"
+        },
+        {
+          "location": "San Diego",
+          "lat": "32.715760",
+          "lng": "-117.163820"
+        },
+        {
+          "location": "San Jose",
+          "lat": "37.335480",
+          "lng": "-121.893028"
+        },
+        {
+          "location": "Oakland",
+          "lat": "37.804363",
+          "lng": "-122.271111"
+        },
+        {
+          "location": "San Francisco",
+          "lat": "37.773972",
+          "lng": "-122.431297"
+        }
+      ],
+      "tags": [
+        "popular",
+        "featured"
+      ],
+      "tel": "(415) 579-2747",
+      "rating": 4.5,
+      "services": [
+        "Local Movers",
+        "Long Distance"
+      ],
+      "info": {
+        "images": [
+          "/image-placeholder.jpg",
+          "/moving_service_exaplme_1.jpg",
+          "/moving_service_exaplme_2.jpg",
+          "/moving_service_exaplme_3.jpg"
+        ],
+        "description": "California Movers USA is a leading moving company throughout the state in San Francisco, Los Angeles, San Diego, Sacramento, San Jose, Santa Clara, and the other parts of the state. Services are offered in all corners of the state. This is a full-service mover and packer offering both long-distance and short-distance moving for homes and offices, packing, and also storage services. \n\n They can move piano, furniture, appliances, china, glassware, electrical gadgets, both regular and high-value items. They have small and huge trucks of different sizes, blankets, boxes, plastic wraps, and all the tools to make the move easy and smooth. \n\n California Movers USA is a fully licensed and insured moving company in the state. The staff members are well trained and thorough professionals. The moving solutions are flexible and completely customized to the needs of their home or office customers. Moves can be scheduled during the week or on the weekend, during the daytime or late in the evening, according to the client convenience. California Movers USA is a leading relocation company in the state now. They have received many 5-star reviews from both home and office customers. ",
+        "pros": [
+          "Moves throughout the state",
+          "Fully licensed and insured",
+          "Both home and office moves",
+          "Large and small trucks",
+          "Timely arrival",
+          "Same team load, drive, unload",
+          "100% satisfaction guarantee",
+          "No hidden costs"
+        ],
+        "cons": [
+          "Does not provide international move",
+          "Works all over the west coast of the US only"
+        ]
+      }
+    },
+    {
+      "id": "5",
+      "logo": "",
+      "name": "Nearme Moving",
+      "addres": [
+        {
+          "location": "Ontario",
+          "lat": "34.063350",
+          "lng": "-117.652400"
+        },
+        {
+          "location": "Los Angeles",
+          "lat": "34.052238",
+          "lng": "-118.243340"
+        },
+        {
+          "location": "San Diego",
+          "lat": "32.715760",
+          "lng": "-117.163820"
+        },
+        {
+          "location": "San Jose",
+          "lat": "37.335480",
+          "lng": "-121.893028"
+        },
+        {
+          "location": "Oakland",
+          "lat": "37.804363",
+          "lng": "-122.271111"
+        },
+        {
+          "location": "San Francisco",
+          "lat": "37.773972",
+          "lng": "-122.431297"
+        }
+      ],
+      "tags": [
+        "popular"
+      ],
+      "tel": "(415) 579-2747",
+      "rating": 4.5,
+      "services": [
+        "Local Movers",
+        "Long Distance",
+        "Storages",
+        "State to State"
+      ],
+      "info": {
+        "images": [
+          "/image-placeholder.jpg",
+          "/moving_service_exaplme_1.jpg",
+          "/moving_service_exaplme_2.jpg",
+          "/moving_service_exaplme_3.jpg"
+        ],
+        "description": "California Movers USA is a leading moving company throughout the state in San Francisco, Los Angeles, San Diego, Sacramento, San Jose, Santa Clara, and the other parts of the state. Services are offered in all corners of the state. This is a full-service mover and packer offering both long-distance and short-distance moving for homes and offices, packing, and also storage services. \n\n They can move piano, furniture, appliances, china, glassware, electrical gadgets, both regular and high-value items. They have small and huge trucks of different sizes, blankets, boxes, plastic wraps, and all the tools to make the move easy and smooth. \n\n California Movers USA is a fully licensed and insured moving company in the state. The staff members are well trained and thorough professionals. The moving solutions are flexible and completely customized to the needs of their home or office customers. Moves can be scheduled during the week or on the weekend, during the daytime or late in the evening, according to the client convenience. California Movers USA is a leading relocation company in the state now. They have received many 5-star reviews from both home and office customers. ",
+        "pros": [
+          "Moves throughout the state",
+          "Fully licensed and insured",
+          "Both home and office moves",
+          "Large and small trucks",
+          "Timely arrival",
+          "Same team load, drive, unload",
+          "100% satisfaction guarantee",
+          "No hidden costs"
+        ],
+        "cons": [
+          "Does not provide international move",
+          "Works all over the west coast of the US only"
+        ]
+      }
+    },
+    {
+      "id": "6",
+      "logo": "",
+      "name": "AMS Bekins",
+      "addres": [
+        {
+          "location": "Los Angeles",
+          "lat": "34.052238",
+          "lng": "-118.243340"
+        },
+        {
+          "location": "San Diego",
+          "lat": "32.715760",
+          "lng": "-117.163820"
+        },
+        {
+          "location": "San Jose",
+          "lat": "37.335480",
+          "lng": "-121.893028"
+        },
+        {
+          "location": "Oakland",
+          "lat": "37.804363",
+          "lng": "-122.271111"
+        }
+      ],
+      "tags": [
+        "popular",
+        "featured"
+      ],
+      "tel": "650-729-9804",
+      "rating": 4.1,
+      "services": [
+        "Local Movers",
+        "Long Distance",
+        "Office Movers",
+        "Piano Movers"
+      ],
+      "info": {
+        "images": [
+          "/image-placeholder.jpg",
+          "/moving_service_exaplme_1.jpg",
+          "/moving_service_exaplme_2.jpg",
+          "/moving_service_exaplme_3.jpg"
+        ],
+        "description": "California Movers USA is a leading moving company throughout the state in San Francisco, Los Angeles, San Diego, Sacramento, San Jose, Santa Clara, and the other parts of the state. Services are offered in all corners of the state. This is a full-service mover and packer offering both long-distance and short-distance moving for homes and offices, packing, and also storage services. \n\n They can move piano, furniture, appliances, china, glassware, electrical gadgets, both regular and high-value items. They have small and huge trucks of different sizes, blankets, boxes, plastic wraps, and all the tools to make the move easy and smooth. \n\n California Movers USA is a fully licensed and insured moving company in the state. The staff members are well trained and thorough professionals. The moving solutions are flexible and completely customized to the needs of their home or office customers. Moves can be scheduled during the week or on the weekend, during the daytime or late in the evening, according to the client convenience. California Movers USA is a leading relocation company in the state now. They have received many 5-star reviews from both home and office customers. ",
+        "pros": [
+          "Moves throughout the state",
+          "Fully licensed and insured",
+          "Both home and office moves",
+          "Large and small trucks",
+          "Timely arrival",
+          "Same team load, drive, unload",
+          "100% satisfaction guarantee",
+          "No hidden costs"
+        ],
+        "cons": [
+          "Does not provide international move",
+          "Works all over the west coast of the US only"
+        ]
+      }
+    },
+    {
+      "id": "7",
+      "name": "Texas Movers LLC",
+      "addres": [
+        {
+          "location": "San Diego",
+          "lat": "32.715760",
+          "lng": "-117.163820"
+        },
+        {
+          "location": "San Jose",
+          "lat": "37.335480",
+          "lng": "-121.893028"
+        },
+        {
+          "location": "Oakland",
+          "lat": "37.804363",
+          "lng": "-122.271111"
+        },
+        {
+          "location": "San Francisco",
+          "lat": "37.773972",
+          "lng": "-122.431297"
+        }
+      ],
+      "tags": [],
+      "tel": "(210) 123-4567",
+      "rating": 4,
+      "services": [
+        "Local Movers",
+        "Long Distance",
+        "Office Movers",
+        "Piano Movers"
+      ],
+      "info": {
+        "images": [
+          "/image-placeholder.jpg",
+          "/moving_service_exaplme_1.jpg",
+          "/moving_service_exaplme_2.jpg",
+          "/moving_service_exaplme_3.jpg"
+        ],
+        "description": "California Movers USA is a leading moving company throughout the state in San Francisco, Los Angeles, San Diego, Sacramento, San Jose, Santa Clara, and the other parts of the state. Services are offered in all corners of the state. This is a full-service mover and packer offering both long-distance and short-distance moving for homes and offices, packing, and also storage services. \n\n They can move piano, furniture, appliances, china, glassware, electrical gadgets, both regular and high-value items. They have small and huge trucks of different sizes, blankets, boxes, plastic wraps, and all the tools to make the move easy and smooth. \n\n California Movers USA is a fully licensed and insured moving company in the state. The staff members are well trained and thorough professionals. The moving solutions are flexible and completely customized to the needs of their home or office customers. Moves can be scheduled during the week or on the weekend, during the daytime or late in the evening, according to the client convenience. California Movers USA is a leading relocation company in the state now. They have received many 5-star reviews from both home and office customers. ",
+        "pros": [
+          "Moves throughout the state",
+          "Fully licensed and insured",
+          "Both home and office moves",
+          "Large and small trucks",
+          "Timely arrival",
+          "Same team load, drive, unload",
+          "100% satisfaction guarantee",
+          "No hidden costs"
+        ],
+        "cons": [
+          "Does not provide international move",
+          "Works all over the west coast of the US only"
+        ]
+      }
+    },
+    {
+      "id": "8",
+      "name": "New York Moving",
+      "addres": [
+        {
+          "location": "Ontario",
+          "lat": "34.063350",
+          "lng": "-117.652400"
+        },
+        {
+          "location": "Los Angeles",
+          "lat": "34.052238",
+          "lng": "-118.243340"
+        },
+        {
+          "location": "San Diego",
+          "lat": "32.715760",
+          "lng": "-117.163820"
+        },
+        {
+          "location": "San Francisco",
+          "lat": "37.773972",
+          "lng": "-122.431297"
+        }
+      ],
+      "tags": [
+        "popular"
+      ],
+      "tel": "(718) 876-5432",
+      "rating": 4,
+      "services": [
+        "Local Movers",
+        "Long Distance",
+        "Storages",
+        "State to State",
+        "Office Movers",
+        "Piano Movers"
+      ],
+      "info": {
+        "images": [
+          "/image-placeholder.jpg",
+          "/moving_service_exaplme_1.jpg",
+          "/moving_service_exaplme_2.jpg",
+          "/moving_service_exaplme_3.jpg"
+        ],
+        "description": "California Movers USA is a leading moving company throughout the state in San Francisco, Los Angeles, San Diego, Sacramento, San Jose, Santa Clara, and the other parts of the state. Services are offered in all corners of the state. This is a full-service mover and packer offering both long-distance and short-distance moving for homes and offices, packing, and also storage services. \n\n They can move piano, furniture, appliances, china, glassware, electrical gadgets, both regular and high-value items. They have small and huge trucks of different sizes, blankets, boxes, plastic wraps, and all the tools to make the move easy and smooth. \n\n California Movers USA is a fully licensed and insured moving company in the state. The staff members are well trained and thorough professionals. The moving solutions are flexible and completely customized to the needs of their home or office customers. Moves can be scheduled during the week or on the weekend, during the daytime or late in the evening, according to the client convenience. California Movers USA is a leading relocation company in the state now. They have received many 5-star reviews from both home and office customers. ",
+        "pros": [
+          "Moves throughout the state",
+          "Fully licensed and insured",
+          "Both home and office moves",
+          "Large and small trucks",
+          "Timely arrival",
+          "Same team load, drive, unload",
+          "100% satisfaction guarantee",
+          "No hidden costs"
+        ],
+        "cons": [
+          "Does not provide international move",
+          "Works all over the west coast of the US only"
+        ]
+      }
+    },
+    {
+      "id": "9",
+      "name": "Florida Moving Experts",
+      "addres": [
+        {
+          "location": "Ontario",
+          "lat": "34.063350",
+          "lng": "-117.652400"
+        },
+        {
+          "location": "Los Angeles",
+          "lat": "34.052238",
+          "lng": "-118.243340"
+        },
+        {
+          "location": "San Diego",
+          "lat": "32.715760",
+          "lng": "-117.163820"
+        },
+        {
+          "location": "San Jose",
+          "lat": "37.335480",
+          "lng": "-121.893028"
+        },
+        {
+          "location": "Oakland",
+          "lat": "37.804363",
+          "lng": "-122.271111"
+        }
+      ],
+      "tags": [
+        "popular"
+      ],
+      "tel": "(305) 555-9876",
+      "rating": 4,
+      "services": [
+        "Local Movers",
+        "State to State",
+        "Office Movers",
+        "Piano Movers"
+      ],
+      "info": {
+        "images": [
+          "/image-placeholder.jpg",
+          "/moving_service_exaplme_1.jpg",
+          "/moving_service_exaplme_2.jpg",
+          "/moving_service_exaplme_3.jpg"
+        ],
+        "description": "California Movers USA is a leading moving company throughout the state in San Francisco, Los Angeles, San Diego, Sacramento, San Jose, Santa Clara, and the other parts of the state. Services are offered in all corners of the state. This is a full-service mover and packer offering both long-distance and short-distance moving for homes and offices, packing, and also storage services. \n\n They can move piano, furniture, appliances, china, glassware, electrical gadgets, both regular and high-value items. They have small and huge trucks of different sizes, blankets, boxes, plastic wraps, and all the tools to make the move easy and smooth. \n\n California Movers USA is a fully licensed and insured moving company in the state. The staff members are well trained and thorough professionals. The moving solutions are flexible and completely customized to the needs of their home or office customers. Moves can be scheduled during the week or on the weekend, during the daytime or late in the evening, according to the client convenience. California Movers USA is a leading relocation company in the state now. They have received many 5-star reviews from both home and office customers. ",
+        "pros": [
+          "Moves throughout the state",
+          "Fully licensed and insured",
+          "Both home and office moves",
+          "Large and small trucks",
+          "Timely arrival",
+          "Same team load, drive, unload",
+          "100% satisfaction guarantee",
+          "No hidden costs"
+        ],
+        "cons": [
+          "Does not provide international move",
+          "Works all over the west coast of the US only"
+        ]
+      }
+    },
+    {
+      "id": "10",
+      "name": "Chicago Relocators",
+      "addres": [
+        {
+          "location": "Ontario",
+          "lat": "34.063350",
+          "lng": "-117.652400"
+        },
+        {
+          "location": "San Diego",
+          "lat": "32.715760",
+          "lng": "-117.163820"
+        },
+        {
+          "location": "San Jose",
+          "lat": "37.335480",
+          "lng": "-121.893028"
+        },
+        {
+          "location": "San Francisco",
+          "lat": "37.773972",
+          "lng": "-122.431297"
+        }
+      ],
+      "tags": [
+        "popular",
+        "featured"
+      ],
+      "tel": "(312) 234-5678",
+      "rating": 4,
+      "services": [
+        "Local Movers",
+        "Long Distance",
+        "Storages",
+        "Piano Movers"
+      ],
+      "info": {
+        "images": [
+          "/image-placeholder.jpg",
+          "/moving_service_exaplme_1.jpg",
+          "/moving_service_exaplme_2.jpg",
+          "/moving_service_exaplme_3.jpg"
+        ],
+        "description": "California Movers USA is a leading moving company throughout the state in San Francisco, Los Angeles, San Diego, Sacramento, San Jose, Santa Clara, and the other parts of the state. Services are offered in all corners of the state. This is a full-service mover and packer offering both long-distance and short-distance moving for homes and offices, packing, and also storage services. \n\n They can move piano, furniture, appliances, china, glassware, electrical gadgets, both regular and high-value items. They have small and huge trucks of different sizes, blankets, boxes, plastic wraps, and all the tools to make the move easy and smooth. \n\n California Movers USA is a fully licensed and insured moving company in the state. The staff members are well trained and thorough professionals. The moving solutions are flexible and completely customized to the needs of their home or office customers. Moves can be scheduled during the week or on the weekend, during the daytime or late in the evening, according to the client convenience. California Movers USA is a leading relocation company in the state now. They have received many 5-star reviews from both home and office customers. ",
+        "pros": [
+          "Moves throughout the state",
+          "Fully licensed and insured",
+          "Both home and office moves",
+          "Large and small trucks",
+          "Timely arrival",
+          "Same team load, drive, unload",
+          "100% satisfaction guarantee",
+          "No hidden costs"
+        ],
+        "cons": [
+          "Does not provide international move",
+          "Works all over the west coast of the US only"
+        ]
+      }
+    },
+    {
+      "id": "11",
+      "name": "Nevada Movers",
+      "addres": [
+        {
+          "location": "Ontario",
+          "lat": "34.063350",
+          "lng": "-117.652400"
+        },
+        {
+          "location": "Los Angeles",
+          "lat": "34.052238",
+          "lng": "-118.243340"
+        },
+        {
+          "location": "San Diego",
+          "lat": "32.715760",
+          "lng": "-117.163820"
+        },
+        {
+          "location": "San Jose",
+          "lat": "37.335480",
+          "lng": "-121.893028"
+        },
+        {
+          "location": "Oakland",
+          "lat": "37.804363",
+          "lng": "-122.271111"
+        },
+        {
+          "location": "San Francisco",
+          "lat": "37.773972",
+          "lng": "-122.431297"
+        }
+      ],
+      "tags": [],
+      "tel": "(702) 876-2345",
+      "rating": 4.7,
+      "services": [
+        "Local Movers",
+        "Long Distance",
+        "Storages",
+        "State to State",
+        "Office Movers",
+        "Piano Movers"
+      ],
+      "info": {
+        "images": [
+          "/image-placeholder.jpg",
+          "/moving_service_exaplme_1.jpg",
+          "/moving_service_exaplme_2.jpg",
+          "/moving_service_exaplme_3.jpg"
+        ],
+        "description": "California Movers USA is a leading moving company throughout the state in San Francisco, Los Angeles, San Diego, Sacramento, San Jose, Santa Clara, and the other parts of the state. Services are offered in all corners of the state. This is a full-service mover and packer offering both long-distance and short-distance moving for homes and offices, packing, and also storage services. \n\n They can move piano, furniture, appliances, china, glassware, electrical gadgets, both regular and high-value items. They have small and huge trucks of different sizes, blankets, boxes, plastic wraps, and all the tools to make the move easy and smooth. \n\n California Movers USA is a fully licensed and insured moving company in the state. The staff members are well trained and thorough professionals. The moving solutions are flexible and completely customized to the needs of their home or office customers. Moves can be scheduled during the week or on the weekend, during the daytime or late in the evening, according to the client convenience. California Movers USA is a leading relocation company in the state now. They have received many 5-star reviews from both home and office customers. ",
+        "pros": [
+          "Moves throughout the state",
+          "Fully licensed and insured",
+          "Both home and office moves",
+          "Large and small trucks",
+          "Timely arrival",
+          "Same team load, drive, unload",
+          "100% satisfaction guarantee",
+          "No hidden costs"
+        ],
+        "cons": [
+          "Does not provide international move",
+          "Works all over the west coast of the US only"
+        ]
+      }
+    },
+    {
+      "id": "12",
+      "name": "Washington State Movers",
+      "addres": [
+        {
+          "location": "Ontario",
+          "lat": "34.063350",
+          "lng": "-117.652400"
+        },
+        {
+          "location": "Los Angeles",
+          "lat": "34.052238",
+          "lng": "-118.243340"
+        },
+        {
+          "location": "San Diego",
+          "lat": "32.715760",
+          "lng": "-117.163820"
+        },
+        {
+          "location": "San Jose",
+          "lat": "37.335480",
+          "lng": "-121.893028"
+        },
+        {
+          "location": "Oakland",
+          "lat": "37.804363",
+          "lng": "-122.271111"
+        },
+        {
+          "location": "San Francisco",
+          "lat": "37.773972",
+          "lng": "-122.431297"
+        }
+      ],
+      "tags": [
+        "popular",
+        "featured"
+      ],
+      "tel": "(206) 789-1234",
+      "rating": 4,
+      "services": [
+        "Local Movers",
+        "Long Distance",
+        "Storages",
+        "State to State",
+        "Office Movers",
+        "Piano Movers"
+      ],
+      "info": {
+        "images": [
+          "/image-placeholder.jpg",
+          "/moving_service_exaplme_1.jpg",
+          "/moving_service_exaplme_2.jpg",
+          "/moving_service_exaplme_3.jpg"
+        ],
+        "description": "California Movers USA is a leading moving company throughout the state in San Francisco, Los Angeles, San Diego, Sacramento, San Jose, Santa Clara, and the other parts of the state. Services are offered in all corners of the state. This is a full-service mover and packer offering both long-distance and short-distance moving for homes and offices, packing, and also storage services. \n\n They can move piano, furniture, appliances, china, glassware, electrical gadgets, both regular and high-value items. They have small and huge trucks of different sizes, blankets, boxes, plastic wraps, and all the tools to make the move easy and smooth. \n\n California Movers USA is a fully licensed and insured moving company in the state. The staff members are well trained and thorough professionals. The moving solutions are flexible and completely customized to the needs of their home or office customers. Moves can be scheduled during the week or on the weekend, during the daytime or late in the evening, according to the client convenience. California Movers USA is a leading relocation company in the state now. They have received many 5-star reviews from both home and office customers. ",
+        "pros": [
+          "Moves throughout the state",
+          "Fully licensed and insured",
+          "Both home and office moves",
+          "Large and small trucks",
+          "Timely arrival",
+          "Same team load, drive, unload",
+          "100% satisfaction guarantee",
+          "No hidden costs"
+        ],
+        "cons": [
+          "Does not provide international move",
+          "Works all over the west coast of the US only"
+        ]
+      }
+    },
+    {
+      "id": "13",
+      "name": "Arizona Relocation",
+      "addres": [
+        {
+          "location": "San Diego",
+          "lat": "32.715760",
+          "lng": "-117.163820"
+        },
+        {
+          "location": "San Jose",
+          "lat": "37.335480",
+          "lng": "-121.893028"
+        },
+        {
+          "location": "Oakland",
+          "lat": "37.804363",
+          "lng": "-122.271111"
+        },
+        {
+          "location": "San Francisco",
+          "lat": "37.773972",
+          "lng": "-122.431297"
+        }
+      ],
+      "tags": [],
+      "tel": "(602) 345-6789",
+      "rating": 4.2,
+      "services": [
+        "Local Movers",
+        "Long Distance",
+        "Storages",
+        "State to State",
+        "Office Movers",
+        "Piano Movers"
+      ],
+      "info": {
+        "images": [
+          "/image-placeholder.jpg",
+          "/moving_service_exaplme_1.jpg",
+          "/moving_service_exaplme_2.jpg",
+          "/moving_service_exaplme_3.jpg"
+        ],
+        "description": "California Movers USA is a leading moving company throughout the state in San Francisco, Los Angeles, San Diego, Sacramento, San Jose, Santa Clara, and the other parts of the state. Services are offered in all corners of the state. This is a full-service mover and packer offering both long-distance and short-distance moving for homes and offices, packing, and also storage services. \n\n They can move piano, furniture, appliances, china, glassware, electrical gadgets, both regular and high-value items. They have small and huge trucks of different sizes, blankets, boxes, plastic wraps, and all the tools to make the move easy and smooth. \n\n California Movers USA is a fully licensed and insured moving company in the state. The staff members are well trained and thorough professionals. The moving solutions are flexible and completely customized to the needs of their home or office customers. Moves can be scheduled during the week or on the weekend, during the daytime or late in the evening, according to the client convenience. California Movers USA is a leading relocation company in the state now. They have received many 5-star reviews from both home and office customers. ",
+        "pros": [
+          "Moves throughout the state",
+          "Fully licensed and insured",
+          "Both home and office moves",
+          "Large and small trucks",
+          "Timely arrival",
+          "Same team load, drive, unload",
+          "100% satisfaction guarantee",
+          "No hidden costs"
+        ],
+        "cons": [
+          "Does not provide international move",
+          "Works all over the west coast of the US only"
+        ]
+      }
+    },
+    {
+      "id": "14",
+      "name": "Colorado Movers Group",
+      "addres": [
+        {
+          "location": "Ontario",
+          "lat": "34.063350",
+          "lng": "-117.652400"
+        },
+        {
+          "location": "San Diego",
+          "lat": "32.715760",
+          "lng": "-117.163820"
+        },
+        {
+          "location": "San Jose",
+          "lat": "37.335480",
+          "lng": "-121.893028"
+        },
+        {
+          "location": "Oakland",
+          "lat": "37.804363",
+          "lng": "-122.271111"
+        },
+        {
+          "location": "San Francisco",
+          "lat": "37.773972",
+          "lng": "-122.431297"
+        }
+      ],
+      "tags": [],
+      "tel": "(303) 987-6543",
+      "rating": 4.7,
+      "services": [
+        "Local Movers",
+        "Office Movers",
+        "Piano Movers"
+      ],
+      "info": {
+        "images": [
+          "/image-placeholder.jpg",
+          "/moving_service_exaplme_1.jpg",
+          "/moving_service_exaplme_2.jpg",
+          "/moving_service_exaplme_3.jpg"
+        ],
+        "description": "California Movers USA is a leading moving company throughout the state in San Francisco, Los Angeles, San Diego, Sacramento, San Jose, Santa Clara, and the other parts of the state. Services are offered in all corners of the state. This is a full-service mover and packer offering both long-distance and short-distance moving for homes and offices, packing, and also storage services. \n\n They can move piano, furniture, appliances, china, glassware, electrical gadgets, both regular and high-value items. They have small and huge trucks of different sizes, blankets, boxes, plastic wraps, and all the tools to make the move easy and smooth. \n\n California Movers USA is a fully licensed and insured moving company in the state. The staff members are well trained and thorough professionals. The moving solutions are flexible and completely customized to the needs of their home or office customers. Moves can be scheduled during the week or on the weekend, during the daytime or late in the evening, according to the client convenience. California Movers USA is a leading relocation company in the state now. They have received many 5-star reviews from both home and office customers. ",
+        "pros": [
+          "Moves throughout the state",
+          "Fully licensed and insured",
+          "Both home and office moves",
+          "Large and small trucks",
+          "Timely arrival",
+          "Same team load, drive, unload",
+          "100% satisfaction guarantee",
+          "No hidden costs"
+        ],
+        "cons": [
+          "Does not provide international move",
+          "Works all over the west coast of the US only"
+        ]
+      }
+    },
+    {
+      "id": "15",
+      "name": "Georgia Moving Company",
+      "addres": [
+        {
+          "location": "San Jose",
+          "lat": "37.335480",
+          "lng": "-121.893028"
+        },
+        {
+          "location": "Oakland",
+          "lat": "37.804363",
+          "lng": "-122.271111"
+        },
+        {
+          "location": "San Francisco",
+          "lat": "37.773972",
+          "lng": "-122.431297"
+        }
+      ],
+      "tags": [
+        "popular",
+        "featured"
+      ],
+      "tel": "(404) 222-3333",
+      "rating": 0,
+      "services": [
+        "Local Movers",
+        "Long Distance",
+        "Storages",
+        "State to State"
+      ],
+      "info": {
+        "images": [
+          "/image-placeholder.jpg",
+          "/moving_service_exaplme_1.jpg",
+          "/moving_service_exaplme_2.jpg",
+          "/moving_service_exaplme_3.jpg"
+        ],
+        "description": "California Movers USA is a leading moving company throughout the state in San Francisco, Los Angeles, San Diego, Sacramento, San Jose, Santa Clara, and the other parts of the state. Services are offered in all corners of the state. This is a full-service mover and packer offering both long-distance and short-distance moving for homes and offices, packing, and also storage services. \n\n They can move piano, furniture, appliances, china, glassware, electrical gadgets, both regular and high-value items. They have small and huge trucks of different sizes, blankets, boxes, plastic wraps, and all the tools to make the move easy and smooth. \n\n California Movers USA is a fully licensed and insured moving company in the state. The staff members are well trained and thorough professionals. The moving solutions are flexible and completely customized to the needs of their home or office customers. Moves can be scheduled during the week or on the weekend, during the daytime or late in the evening, according to the client convenience. California Movers USA is a leading relocation company in the state now. They have received many 5-star reviews from both home and office customers. ",
+        "pros": [
+          "Moves throughout the state",
+          "Fully licensed and insured",
+          "Both home and office moves",
+          "Large and small trucks",
+          "Timely arrival",
+          "Same team load, drive, unload",
+          "100% satisfaction guarantee",
+          "No hidden costs"
+        ],
+        "cons": [
+          "Does not provide international move",
+          "Works all over the west coast of the US only"
+        ]
+      }
+    },
+    {
+      "id": "16",
+      "name": "Ohio Moving Pros",
+      "addres": [
+        {
+          "location": "Ontario",
+          "lat": "34.063350",
+          "lng": "-117.652400"
+        },
+        {
+          "location": "Los Angeles",
+          "lat": "34.052238",
+          "lng": "-118.243340"
+        },
+        {
+          "location": "San Diego",
+          "lat": "32.715760",
+          "lng": "-117.163820"
+        },
+        {
+          "location": "Oakland",
+          "lat": "37.804363",
+          "lng": "-122.271111"
+        },
+        {
+          "location": "San Francisco",
+          "lat": "37.773972",
+          "lng": "-122.431297"
+        }
+      ],
+      "tags": [
+        "popular",
+        "featured"
+      ],
+      "tel": "(614) 888-9999",
+      "rating": 0,
+      "services": [
+        "Local Movers",
+        "Long Distance",
+        "Storages",
+        "State to State",
+        "Office Movers",
+        "Piano Movers"
+      ],
+      "info": {
+        "images": [
+          "/image-placeholder.jpg",
+          "/moving_service_exaplme_1.jpg",
+          "/moving_service_exaplme_2.jpg",
+          "/moving_service_exaplme_3.jpg"
+        ],
+        "description": "California Movers USA is a leading moving company throughout the state in San Francisco, Los Angeles, San Diego, Sacramento, San Jose, Santa Clara, and the other parts of the state. Services are offered in all corners of the state. This is a full-service mover and packer offering both long-distance and short-distance moving for homes and offices, packing, and also storage services. \n\n They can move piano, furniture, appliances, china, glassware, electrical gadgets, both regular and high-value items. They have small and huge trucks of different sizes, blankets, boxes, plastic wraps, and all the tools to make the move easy and smooth. \n\n California Movers USA is a fully licensed and insured moving company in the state. The staff members are well trained and thorough professionals. The moving solutions are flexible and completely customized to the needs of their home or office customers. Moves can be scheduled during the week or on the weekend, during the daytime or late in the evening, according to the client convenience. California Movers USA is a leading relocation company in the state now. They have received many 5-star reviews from both home and office customers. ",
+        "pros": [
+          "Moves throughout the state",
+          "Fully licensed and insured",
+          "Both home and office moves",
+          "Large and small trucks",
+          "Timely arrival",
+          "Same team load, drive, unload",
+          "100% satisfaction guarantee",
+          "No hidden costs"
+        ],
+        "cons": [
+          "Does not provide international move",
+          "Works all over the west coast of the US only"
+        ]
+      }
+    },
+    {
+      "id": "17",
+      "name": "Michigan Movers Inc",
+      "addres": [
+        {
+          "location": "Los Angeles",
+          "lat": "34.052238",
+          "lng": "-118.243340"
+        },
+        {
+          "location": "San Diego",
+          "lat": "32.715760",
+          "lng": "-117.163820"
+        },
+        {
+          "location": "San Jose",
+          "lat": "37.335480",
+          "lng": "-121.893028"
+        },
+        {
+          "location": "Oakland",
+          "lat": "37.804363",
+          "lng": "-122.271111"
+        }
+      ],
+      "tags": [
+        "popular"
+      ],
+      "tel": "(313) 555-7777",
+      "rating": 0,
+      "services": [
+        "Local Movers",
+        "Long Distance",
+        "Office Movers",
+        "Piano Movers"
+      ],
+      "info": {
+        "images": [
+          "/image-placeholder.jpg",
+          "/moving_service_exaplme_1.jpg",
+          "/moving_service_exaplme_2.jpg",
+          "/moving_service_exaplme_3.jpg"
+        ],
+        "description": "California Movers USA is a leading moving company throughout the state in San Francisco, Los Angeles, San Diego, Sacramento, San Jose, Santa Clara, and the other parts of the state. Services are offered in all corners of the state. This is a full-service mover and packer offering both long-distance and short-distance moving for homes and offices, packing, and also storage services. \n\n They can move piano, furniture, appliances, china, glassware, electrical gadgets, both regular and high-value items. They have small and huge trucks of different sizes, blankets, boxes, plastic wraps, and all the tools to make the move easy and smooth. \n\n California Movers USA is a fully licensed and insured moving company in the state. The staff members are well trained and thorough professionals. The moving solutions are flexible and completely customized to the needs of their home or office customers. Moves can be scheduled during the week or on the weekend, during the daytime or late in the evening, according to the client convenience. California Movers USA is a leading relocation company in the state now. They have received many 5-star reviews from both home and office customers. ",
+        "pros": [
+          "Moves throughout the state",
+          "Fully licensed and insured",
+          "Both home and office moves",
+          "Large and small trucks",
+          "Timely arrival",
+          "Same team load, drive, unload",
+          "100% satisfaction guarantee",
+          "No hidden costs"
+        ],
+        "cons": [
+          "Does not provide international move",
+          "Works all over the west coast of the US only"
+        ]
+      }
+    },
+    {
+      "id": "18",
+      "name": "Virginia Relocators",
+      "addres": [
+        {
+          "location": "Ontario",
+          "lat": "34.063350",
+          "lng": "-117.652400"
+        },
+        {
+          "location": "Los Angeles",
+          "lat": "34.052238",
+          "lng": "-118.243340"
+        },
+        {
+          "location": "San Diego",
+          "lat": "32.715760",
+          "lng": "-117.163820"
+        },
+        {
+          "location": "San Jose",
+          "lat": "37.335480",
+          "lng": "-121.893028"
+        },
+        {
+          "location": "Oakland",
+          "lat": "37.804363",
+          "lng": "-122.271111"
+        },
+        {
+          "location": "San Francisco",
+          "lat": "37.773972",
+          "lng": "-122.431297"
+        }
+      ],
+      "tags": [],
+      "tel": "(757) 999-8888",
+      "rating": 0,
+      "services": [
+        "Local Movers",
+        "Storages",
+        "State to State"
+      ],
+      "info": {
+        "images": [
+          "/image-placeholder.jpg",
+          "/moving_service_exaplme_1.jpg",
+          "/moving_service_exaplme_2.jpg",
+          "/moving_service_exaplme_3.jpg"
+        ],
+        "description": "California Movers USA is a leading moving company throughout the state in San Francisco, Los Angeles, San Diego, Sacramento, San Jose, Santa Clara, and the other parts of the state. Services are offered in all corners of the state. This is a full-service mover and packer offering both long-distance and short-distance moving for homes and offices, packing, and also storage services. \n\n They can move piano, furniture, appliances, china, glassware, electrical gadgets, both regular and high-value items. They have small and huge trucks of different sizes, blankets, boxes, plastic wraps, and all the tools to make the move easy and smooth. \n\n California Movers USA is a fully licensed and insured moving company in the state. The staff members are well trained and thorough professionals. The moving solutions are flexible and completely customized to the needs of their home or office customers. Moves can be scheduled during the week or on the weekend, during the daytime or late in the evening, according to the client convenience. California Movers USA is a leading relocation company in the state now. They have received many 5-star reviews from both home and office customers. ",
+        "pros": [
+          "Moves throughout the state",
+          "Fully licensed and insured",
+          "Both home and office moves",
+          "Large and small trucks",
+          "Timely arrival",
+          "Same team load, drive, unload",
+          "100% satisfaction guarantee",
+          "No hidden costs"
+        ],
+        "cons": [
+          "Does not provide international move",
+          "Works all over the west coast of the US only"
+        ]
+      }
+    },
+    {
+      "id": "19",
+      "name": "North Carolina Movers",
+      "addres": [
+        {
+          "location": "Ontario",
+          "lat": "34.063350",
+          "lng": "-117.652400"
+        },
+        {
+          "location": "Los Angeles",
+          "lat": "34.052238",
+          "lng": "-118.243340"
+        },
+        {
+          "location": "San Diego",
+          "lat": "32.715760",
+          "lng": "-117.163820"
+        },
+        {
+          "location": "San Jose",
+          "lat": "37.335480",
+          "lng": "-121.893028"
+        },
+        {
+          "location": "Oakland",
+          "lat": "37.804363",
+          "lng": "-122.271111"
+        },
+        {
+          "location": "San Francisco",
+          "lat": "37.773972",
+          "lng": "-122.431297"
+        }
+      ],
+      "tags": [
+        "popular"
+      ],
+      "tel": "(919) 654-3210",
+      "rating": 0,
+      "services": [
+        "Local Movers",
+        "Long Distance",
+        "State to State",
+        "Office Movers"
+      ],
+      "info": {
+        "images": [
+          "/image-placeholder.jpg",
+          "/moving_service_exaplme_1.jpg",
+          "/moving_service_exaplme_2.jpg",
+          "/moving_service_exaplme_3.jpg"
+        ],
+        "description": "California Movers USA is a leading moving company throughout the state in San Francisco, Los Angeles, San Diego, Sacramento, San Jose, Santa Clara, and the other parts of the state. Services are offered in all corners of the state. This is a full-service mover and packer offering both long-distance and short-distance moving for homes and offices, packing, and also storage services. \n\n They can move piano, furniture, appliances, china, glassware, electrical gadgets, both regular and high-value items. They have small and huge trucks of different sizes, blankets, boxes, plastic wraps, and all the tools to make the move easy and smooth. \n\n California Movers USA is a fully licensed and insured moving company in the state. The staff members are well trained and thorough professionals. The moving solutions are flexible and completely customized to the needs of their home or office customers. Moves can be scheduled during the week or on the weekend, during the daytime or late in the evening, according to the client convenience. California Movers USA is a leading relocation company in the state now. They have received many 5-star reviews from both home and office customers. ",
+        "pros": [
+          "Moves throughout the state",
+          "Fully licensed and insured",
+          "Both home and office moves",
+          "Large and small trucks",
+          "Timely arrival",
+          "Same team load, drive, unload",
+          "100% satisfaction guarantee",
+          "No hidden costs"
+        ],
+        "cons": [
+          "Does not provide international move",
+          "Works all over the west coast of the US only"
+        ]
+      }
+    },
+    {
+      "id": "20",
+      "name": "Minnesota Moving Services",
+      "addres": [
+        {
+          "location": "Ontario",
+          "lat": "34.063350",
+          "lng": "-117.652400"
+        },
+        {
+          "location": "San Jose",
+          "lat": "37.335480",
+          "lng": "-121.893028"
+        },
+        {
+          "location": "Oakland",
+          "lat": "37.804363",
+          "lng": "-122.271111"
+        },
+        {
+          "location": "San Francisco",
+          "lat": "37.773972",
+          "lng": "-122.431297"
+        }
+      ],
+      "tags": [
+        "popular",
+        "featured"
+      ],
+      "tel": "(612) 123-9876",
+      "rating": 0,
+      "services": [
+        "Local Movers",
+        "Storages"
+      ],
+      "info": {
+        "images": [
+          "/image-placeholder.jpg",
+          "/moving_service_exaplme_1.jpg",
+          "/moving_service_exaplme_2.jpg",
+          "/moving_service_exaplme_3.jpg"
+        ],
+        "description": "California Movers USA is a leading moving company throughout the state in San Francisco, Los Angeles, San Diego, Sacramento, San Jose, Santa Clara, and the other parts of the state. Services are offered in all corners of the state. This is a full-service mover and packer offering both long-distance and short-distance moving for homes and offices, packing, and also storage services. \n\n They can move piano, furniture, appliances, china, glassware, electrical gadgets, both regular and high-value items. They have small and huge trucks of different sizes, blankets, boxes, plastic wraps, and all the tools to make the move easy and smooth. \n\n California Movers USA is a fully licensed and insured moving company in the state. The staff members are well trained and thorough professionals. The moving solutions are flexible and completely customized to the needs of their home or office customers. Moves can be scheduled during the week or on the weekend, during the daytime or late in the evening, according to the client convenience. California Movers USA is a leading relocation company in the state now. They have received many 5-star reviews from both home and office customers. ",
+        "pros": [
+          "Moves throughout the state",
+          "Fully licensed and insured",
+          "Both home and office moves",
+          "Large and small trucks",
+          "Timely arrival",
+          "Same team load, drive, unload",
+          "100% satisfaction guarantee",
+          "No hidden costs"
+        ],
+        "cons": [
+          "Does not provide international move",
+          "Works all over the west coast of the US only"
+        ]
+      }
+    },
+    {
+      "id": "21",
+      "name": "Indiana Relocation Experts",
+      "addres": [
+        {
+          "location": "Ontario",
+          "lat": "34.063350",
+          "lng": "-117.652400"
+        },
+        {
+          "location": "Los Angeles",
+          "lat": "34.052238",
+          "lng": "-118.243340"
+        },
+        {
+          "location": "San Diego",
+          "lat": "32.715760",
+          "lng": "-117.163820"
+        },
+        {
+          "location": "San Francisco",
+          "lat": "37.773972",
+          "lng": "-122.431297"
+        }
+      ],
+      "tags": [],
+      "tel": "(317) 876-1234",
+      "rating": 0,
+      "services": [
+        "Local Movers",
+        "Long Distance",
+        "Storages",
+        "State to State",
+        "Office Movers",
+        "Piano Movers"
+      ],
+      "info": {
+        "images": [
+          "/image-placeholder.jpg",
+          "/moving_service_exaplme_1.jpg",
+          "/moving_service_exaplme_2.jpg",
+          "/moving_service_exaplme_3.jpg"
+        ],
+        "description": "California Movers USA is a leading moving company throughout the state in San Francisco, Los Angeles, San Diego, Sacramento, San Jose, Santa Clara, and the other parts of the state. Services are offered in all corners of the state. This is a full-service mover and packer offering both long-distance and short-distance moving for homes and offices, packing, and also storage services. \n\n They can move piano, furniture, appliances, china, glassware, electrical gadgets, both regular and high-value items. They have small and huge trucks of different sizes, blankets, boxes, plastic wraps, and all the tools to make the move easy and smooth. \n\n California Movers USA is a fully licensed and insured moving company in the state. The staff members are well trained and thorough professionals. The moving solutions are flexible and completely customized to the needs of their home or office customers. Moves can be scheduled during the week or on the weekend, during the daytime or late in the evening, according to the client convenience. California Movers USA is a leading relocation company in the state now. They have received many 5-star reviews from both home and office customers. ",
+        "pros": [
+          "Moves throughout the state",
+          "Fully licensed and insured",
+          "Both home and office moves",
+          "Large and small trucks",
+          "Timely arrival",
+          "Same team load, drive, unload",
+          "100% satisfaction guarantee",
+          "No hidden costs"
+        ],
+        "cons": [
+          "Does not provide international move",
+          "Works all over the west coast of the US only"
+        ]
+      }
+    },
+    {
+      "id": "22",
+      "name": "Kentucky Movers Group",
+      "addres": [
+        {
+          "location": "Los Angeles",
+          "lat": "34.052238",
+          "lng": "-118.243340"
+        },
+        {
+          "location": "San Diego",
+          "lat": "32.715760",
+          "lng": "-117.163820"
+        },
+        {
+          "location": "San Jose",
+          "lat": "37.335480",
+          "lng": "-121.893028"
+        },
+        {
+          "location": "Oakland",
+          "lat": "37.804363",
+          "lng": "-122.271111"
+        }
+      ],
+      "tags": [
+        "popular"
+      ],
+      "tel": "(502) 765-4321",
+      "rating": 0,
+      "services": [
+        "Local Movers",
+        "Storages",
+        "State to State",
+        "Office Movers",
+        "Piano Movers"
+      ],
+      "info": {
+        "images": [
+          "/image-placeholder.jpg",
+          "/moving_service_exaplme_1.jpg",
+          "/moving_service_exaplme_2.jpg",
+          "/moving_service_exaplme_3.jpg"
+        ],
+        "description": "California Movers USA is a leading moving company throughout the state in San Francisco, Los Angeles, San Diego, Sacramento, San Jose, Santa Clara, and the other parts of the state. Services are offered in all corners of the state. This is a full-service mover and packer offering both long-distance and short-distance moving for homes and offices, packing, and also storage services. \n\n They can move piano, furniture, appliances, china, glassware, electrical gadgets, both regular and high-value items. They have small and huge trucks of different sizes, blankets, boxes, plastic wraps, and all the tools to make the move easy and smooth. \n\n California Movers USA is a fully licensed and insured moving company in the state. The staff members are well trained and thorough professionals. The moving solutions are flexible and completely customized to the needs of their home or office customers. Moves can be scheduled during the week or on the weekend, during the daytime or late in the evening, according to the client convenience. California Movers USA is a leading relocation company in the state now. They have received many 5-star reviews from both home and office customers. ",
+        "pros": [
+          "Moves throughout the state",
+          "Fully licensed and insured",
+          "Both home and office moves",
+          "Large and small trucks",
+          "Timely arrival",
+          "Same team load, drive, unload",
+          "100% satisfaction guarantee",
+          "No hidden costs"
+        ],
+        "cons": [
+          "Does not provide international move",
+          "Works all over the west coast of the US only"
+        ]
+      }
+    },
+    {
+      "id": "23",
+      "name": "Louisiana Moving",
+      "addres": [
+        {
+          "location": "Ontario",
+          "lat": "34.063350",
+          "lng": "-117.652400"
+        },
+        {
+          "location": "Los Angeles",
+          "lat": "34.052238",
+          "lng": "-118.243340"
+        },
+        {
+          "location": "San Diego",
+          "lat": "32.715760",
+          "lng": "-117.163820"
+        },
+        {
+          "location": "San Jose",
+          "lat": "37.335480",
+          "lng": "-121.893028"
+        },
+        {
+          "location": "Oakland",
+          "lat": "37.804363",
+          "lng": "-122.271111"
+        },
+        {
+          "location": "San Francisco",
+          "lat": "37.773972",
+          "lng": "-122.431297"
+        }
+      ],
+      "tags": [
+        "popular"
+      ],
+      "tel": "(504) 888-6666",
+      "rating": 0,
+      "services": [
+        "Local Movers",
+        "Long Distance",
+        "Storages",
+        "State to State",
+        "Office Movers",
+        "Piano Movers"
+      ],
+      "info": {
+        "images": [
+          "/image-placeholder.jpg",
+          "/moving_service_exaplme_1.jpg",
+          "/moving_service_exaplme_2.jpg",
+          "/moving_service_exaplme_3.jpg"
+        ],
+        "description": "California Movers USA is a leading moving company throughout the state in San Francisco, Los Angeles, San Diego, Sacramento, San Jose, Santa Clara, and the other parts of the state. Services are offered in all corners of the state. This is a full-service mover and packer offering both long-distance and short-distance moving for homes and offices, packing, and also storage services. \n\n They can move piano, furniture, appliances, china, glassware, electrical gadgets, both regular and high-value items. They have small and huge trucks of different sizes, blankets, boxes, plastic wraps, and all the tools to make the move easy and smooth. \n\n California Movers USA is a fully licensed and insured moving company in the state. The staff members are well trained and thorough professionals. The moving solutions are flexible and completely customized to the needs of their home or office customers. Moves can be scheduled during the week or on the weekend, during the daytime or late in the evening, according to the client convenience. California Movers USA is a leading relocation company in the state now. They have received many 5-star reviews from both home and office customers. ",
+        "pros": [
+          "Moves throughout the state",
+          "Fully licensed and insured",
+          "Both home and office moves",
+          "Large and small trucks",
+          "Timely arrival",
+          "Same team load, drive, unload",
+          "100% satisfaction guarantee",
+          "No hidden costs"
+        ],
+        "cons": [
+          "Does not provide international move",
+          "Works all over the west coast of the US only"
+        ]
+      }
+    },
+    {
+      "id": "24",
+      "name": "Oregon Movers LLC",
+      "addres": [
+        {
+          "location": "Ontario",
+          "lat": "34.063350",
+          "lng": "-117.652400"
+        },
+        {
+          "location": "San Jose",
+          "lat": "37.335480",
+          "lng": "-121.893028"
+        },
+        {
+          "location": "Oakland",
+          "lat": "37.804363",
+          "lng": "-122.271111"
+        },
+        {
+          "location": "San Francisco",
+          "lat": "37.773972",
+          "lng": "-122.431297"
+        }
+      ],
+      "tags": [
+        "popular"
+      ],
+      "tel": "(503) 123-5555",
+      "rating": 0,
+      "services": [
+        "Local Movers"
+      ],
+      "info": {
+        "images": [
+          "/image-placeholder.jpg",
+          "/moving_service_exaplme_1.jpg",
+          "/moving_service_exaplme_2.jpg",
+          "/moving_service_exaplme_3.jpg"
+        ],
+        "description": "California Movers USA is a leading moving company throughout the state in San Francisco, Los Angeles, San Diego, Sacramento, San Jose, Santa Clara, and the other parts of the state. Services are offered in all corners of the state. This is a full-service mover and packer offering both long-distance and short-distance moving for homes and offices, packing, and also storage services. \n\n They can move piano, furniture, appliances, china, glassware, electrical gadgets, both regular and high-value items. They have small and huge trucks of different sizes, blankets, boxes, plastic wraps, and all the tools to make the move easy and smooth. \n\n California Movers USA is a fully licensed and insured moving company in the state. The staff members are well trained and thorough professionals. The moving solutions are flexible and completely customized to the needs of their home or office customers. Moves can be scheduled during the week or on the weekend, during the daytime or late in the evening, according to the client convenience. California Movers USA is a leading relocation company in the state now. They have received many 5-star reviews from both home and office customers. ",
+        "pros": [
+          "Moves throughout the state",
+          "Fully licensed and insured",
+          "Both home and office moves",
+          "Large and small trucks",
+          "Timely arrival",
+          "Same team load, drive, unload",
+          "100% satisfaction guarantee",
+          "No hidden costs"
+        ],
+        "cons": [
+          "Does not provide international move",
+          "Works all over the west coast of the US only"
+        ]
+      }
+    },
+    {
+      "id": "25",
+      "name": "Missouri Relocators",
+      "addres": [
+        {
+          "location": "Ontario",
+          "lat": "34.063350",
+          "lng": "-117.652400"
+        },
+        {
+          "location": "Los Angeles",
+          "lat": "34.052238",
+          "lng": "-118.243340"
+        },
+        {
+          "location": "Oakland",
+          "lat": "37.804363",
+          "lng": "-122.271111"
+        },
+        {
+          "location": "San Francisco",
+          "lat": "37.773972",
+          "lng": "-122.431297"
+        }
+      ],
+      "tags": [
+        "popular"
+      ],
+      "tel": "(314) 999-2222",
+      "rating": 0,
+      "services": [
+        "Local Movers",
+        "State to State",
+        "Office Movers",
+        "Piano Movers"
+      ],
+      "info": {
+        "images": [
+          "/image-placeholder.jpg",
+          "/moving_service_exaplme_1.jpg",
+          "/moving_service_exaplme_2.jpg",
+          "/moving_service_exaplme_3.jpg"
+        ],
+        "description": "California Movers USA is a leading moving company throughout the state in San Francisco, Los Angeles, San Diego, Sacramento, San Jose, Santa Clara, and the other parts of the state. Services are offered in all corners of the state. This is a full-service mover and packer offering both long-distance and short-distance moving for homes and offices, packing, and also storage services. \n\n They can move piano, furniture, appliances, china, glassware, electrical gadgets, both regular and high-value items. They have small and huge trucks of different sizes, blankets, boxes, plastic wraps, and all the tools to make the move easy and smooth. \n\n California Movers USA is a fully licensed and insured moving company in the state. The staff members are well trained and thorough professionals. The moving solutions are flexible and completely customized to the needs of their home or office customers. Moves can be scheduled during the week or on the weekend, during the daytime or late in the evening, according to the client convenience. California Movers USA is a leading relocation company in the state now. They have received many 5-star reviews from both home and office customers. ",
+        "pros": [
+          "Moves throughout the state",
+          "Fully licensed and insured",
+          "Both home and office moves",
+          "Large and small trucks",
+          "Timely arrival",
+          "Same team load, drive, unload",
+          "100% satisfaction guarantee",
+          "No hidden costs"
+        ],
+        "cons": [
+          "Does not provide international move",
+          "Works all over the west coast of the US only"
+        ]
+      }
+    },
+    {
+      "id": "26",
+      "name": "Alabama Movers Group",
+      "addres": [
+        {
+          "location": "Ontario",
+          "lat": "34.063350",
+          "lng": "-117.652400"
+        },
+        {
+          "location": "Los Angeles",
+          "lat": "34.052238",
+          "lng": "-118.243340"
+        },
+        {
+          "location": "San Diego",
+          "lat": "32.715760",
+          "lng": "-117.163820"
+        },
+        {
+          "location": "Oakland",
+          "lat": "37.804363",
+          "lng": "-122.271111"
+        },
+        {
+          "location": "San Francisco",
+          "lat": "37.773972",
+          "lng": "-122.431297"
+        }
+      ],
+      "tags": [],
+      "tel": "(205) 444-1111",
+      "rating": 0,
+      "services": [
+        "Local Movers",
+        "Office Movers",
+        "Piano Movers"
+      ],
+      "info": {
+        "images": [
+          "/image-placeholder.jpg",
+          "/moving_service_exaplme_1.jpg",
+          "/moving_service_exaplme_2.jpg",
+          "/moving_service_exaplme_3.jpg"
+        ],
+        "description": "California Movers USA is a leading moving company throughout the state in San Francisco, Los Angeles, San Diego, Sacramento, San Jose, Santa Clara, and the other parts of the state. Services are offered in all corners of the state. This is a full-service mover and packer offering both long-distance and short-distance moving for homes and offices, packing, and also storage services. \n\n They can move piano, furniture, appliances, china, glassware, electrical gadgets, both regular and high-value items. They have small and huge trucks of different sizes, blankets, boxes, plastic wraps, and all the tools to make the move easy and smooth. \n\n California Movers USA is a fully licensed and insured moving company in the state. The staff members are well trained and thorough professionals. The moving solutions are flexible and completely customized to the needs of their home or office customers. Moves can be scheduled during the week or on the weekend, during the daytime or late in the evening, according to the client convenience. California Movers USA is a leading relocation company in the state now. They have received many 5-star reviews from both home and office customers. ",
+        "pros": [
+          "Moves throughout the state",
+          "Fully licensed and insured",
+          "Both home and office moves",
+          "Large and small trucks",
+          "Timely arrival",
+          "Same team load, drive, unload",
+          "100% satisfaction guarantee",
+          "No hidden costs"
+        ],
+        "cons": [
+          "Does not provide international move",
+          "Works all over the west coast of the US only"
+        ]
+      }
+    },
+    {
+      "id": "27",
+      "name": "Mississippi Moving Services",
+      "addres": [
+        {
+          "location": "Los Angeles",
+          "lat": "34.052238",
+          "lng": "-118.243340"
+        },
+        {
+          "location": "San Diego",
+          "lat": "32.715760",
+          "lng": "-117.163820"
+        },
+        {
+          "location": "San Francisco",
+          "lat": "37.773972",
+          "lng": "-122.431297"
+        }
+      ],
+      "tags": [
+        "popular"
+      ],
+      "tel": "(601) 333-4444",
+      "rating": 0,
+      "services": [
+        "Local Movers",
+        "Storages",
+        "Office Movers",
+        "Piano Movers"
+      ],
+      "info": {
+        "images": [
+          "/image-placeholder.jpg",
+          "/moving_service_exaplme_1.jpg",
+          "/moving_service_exaplme_2.jpg",
+          "/moving_service_exaplme_3.jpg"
+        ],
+        "description": "California Movers USA is a leading moving company throughout the state in San Francisco, Los Angeles, San Diego, Sacramento, San Jose, Santa Clara, and the other parts of the state. Services are offered in all corners of the state. This is a full-service mover and packer offering both long-distance and short-distance moving for homes and offices, packing, and also storage services. \n\n They can move piano, furniture, appliances, china, glassware, electrical gadgets, both regular and high-value items. They have small and huge trucks of different sizes, blankets, boxes, plastic wraps, and all the tools to make the move easy and smooth. \n\n California Movers USA is a fully licensed and insured moving company in the state. The staff members are well trained and thorough professionals. The moving solutions are flexible and completely customized to the needs of their home or office customers. Moves can be scheduled during the week or on the weekend, during the daytime or late in the evening, according to the client convenience. California Movers USA is a leading relocation company in the state now. They have received many 5-star reviews from both home and office customers. ",
+        "pros": [
+          "Moves throughout the state",
+          "Fully licensed and insured",
+          "Both home and office moves",
+          "Large and small trucks",
+          "Timely arrival",
+          "Same team load, drive, unload",
+          "100% satisfaction guarantee",
+          "No hidden costs"
+        ],
+        "cons": [
+          "Does not provide international move",
+          "Works all over the west coast of the US only"
+        ]
+      }
+    },
+    {
+      "id": "28",
+      "name": "Tennessee Movers",
+      "addres": [
+        {
+          "location": "Ontario",
+          "lat": "34.063350",
+          "lng": "-117.652400"
+        },
+        {
+          "location": "Los Angeles",
+          "lat": "34.052238",
+          "lng": "-118.243340"
+        },
+        {
+          "location": "San Diego",
+          "lat": "32.715760",
+          "lng": "-117.163820"
+        },
+        {
+          "location": "San Jose",
+          "lat": "37.335480",
+          "lng": "-121.893028"
+        },
+        {
+          "location": "San Francisco",
+          "lat": "37.773972",
+          "lng": "-122.431297"
+        }
+      ],
+      "tags": [],
+      "tel": "(615) 222-5555",
+      "rating": 0,
+      "services": [
+        "Local Movers",
+        "Storages",
+        "State to State"
+      ],
+      "info": {
+        "images": [
+          "/image-placeholder.jpg",
+          "/moving_service_exaplme_1.jpg",
+          "/moving_service_exaplme_2.jpg",
+          "/moving_service_exaplme_3.jpg"
+        ],
+        "description": "California Movers USA is a leading moving company throughout the state in San Francisco, Los Angeles, San Diego, Sacramento, San Jose, Santa Clara, and the other parts of the state. Services are offered in all corners of the state. This is a full-service mover and packer offering both long-distance and short-distance moving for homes and offices, packing, and also storage services. \n\n They can move piano, furniture, appliances, china, glassware, electrical gadgets, both regular and high-value items. They have small and huge trucks of different sizes, blankets, boxes, plastic wraps, and all the tools to make the move easy and smooth. \n\n California Movers USA is a fully licensed and insured moving company in the state. The staff members are well trained and thorough professionals. The moving solutions are flexible and completely customized to the needs of their home or office customers. Moves can be scheduled during the week or on the weekend, during the daytime or late in the evening, according to the client convenience. California Movers USA is a leading relocation company in the state now. They have received many 5-star reviews from both home and office customers. ",
+        "pros": [
+          "Moves throughout the state",
+          "Fully licensed and insured",
+          "Both home and office moves",
+          "Large and small trucks",
+          "Timely arrival",
+          "Same team load, drive, unload",
+          "100% satisfaction guarantee",
+          "No hidden costs"
+        ],
+        "cons": [
+          "Does not provide international move",
+          "Works all over the west coast of the US only"
+        ]
+      }
+    },
+    {
+      "id": "29",
+      "name": "South Carolina Moving Experts",
+      "addres": [
+        {
+          "location": "Ontario",
+          "lat": "34.063350",
+          "lng": "-117.652400"
+        },
+        {
+          "location": "Los Angeles",
+          "lat": "34.052238",
+          "lng": "-118.243340"
+        },
+        {
+          "location": "San Diego",
+          "lat": "32.715760",
+          "lng": "-117.163820"
+        },
+        {
+          "location": "San Jose",
+          "lat": "37.335480",
+          "lng": "-121.893028"
+        }
+      ],
+      "tags": [],
+      "tel": "(843) 888-9999",
+      "rating": 0,
+      "services": [
+        "Storages",
+        "State to State",
+        "Office Movers",
+        "Piano Movers"
+      ],
+      "info": {
+        "images": [
+          "/image-placeholder.jpg",
+          "/moving_service_exaplme_1.jpg",
+          "/moving_service_exaplme_2.jpg",
+          "/moving_service_exaplme_3.jpg"
+        ],
+        "description": "California Movers USA is a leading moving company throughout the state in San Francisco, Los Angeles, San Diego, Sacramento, San Jose, Santa Clara, and the other parts of the state. Services are offered in all corners of the state. This is a full-service mover and packer offering both long-distance and short-distance moving for homes and offices, packing, and also storage services. \n\n They can move piano, furniture, appliances, china, glassware, electrical gadgets, both regular and high-value items. They have small and huge trucks of different sizes, blankets, boxes, plastic wraps, and all the tools to make the move easy and smooth. \n\n California Movers USA is a fully licensed and insured moving company in the state. The staff members are well trained and thorough professionals. The moving solutions are flexible and completely customized to the needs of their home or office customers. Moves can be scheduled during the week or on the weekend, during the daytime or late in the evening, according to the client convenience. California Movers USA is a leading relocation company in the state now. They have received many 5-star reviews from both home and office customers. ",
+        "pros": [
+          "Moves throughout the state",
+          "Fully licensed and insured",
+          "Both home and office moves",
+          "Large and small trucks",
+          "Timely arrival",
+          "Same team load, drive, unload",
+          "100% satisfaction guarantee",
+          "No hidden costs"
+        ],
+        "cons": [
+          "Does not provide international move",
+          "Works all over the west coast of the US only"
+        ]
+      }
+    },
+    {
+      "id": "30",
+      "name": "Pennsylvania Relocators",
+      "addres": [
+        {
+          "location": "Oakland",
+          "lat": "37.804363",
+          "lng": "-122.271111"
+        },
+        {
+          "location": "San Francisco",
+          "lat": "37.773972",
+          "lng": "-122.431297"
+        }
+      ],
+      "tags": [],
+      "tel": "(717) 555-4444",
+      "rating": 0,
+      "services": [
+        "Local Movers"
+      ],
+      "info": {
+        "images": [
+          "/image-placeholder.jpg",
+          "/moving_service_exaplme_1.jpg",
+          "/moving_service_exaplme_2.jpg",
+          "/moving_service_exaplme_3.jpg"
+        ],
+        "description": "California Movers USA is a leading moving company throughout the state in San Francisco, Los Angeles, San Diego, Sacramento, San Jose, Santa Clara, and the other parts of the state. Services are offered in all corners of the state. This is a full-service mover and packer offering both long-distance and short-distance moving for homes and offices, packing, and also storage services. \n\n They can move piano, furniture, appliances, china, glassware, electrical gadgets, both regular and high-value items. They have small and huge trucks of different sizes, blankets, boxes, plastic wraps, and all the tools to make the move easy and smooth. \n\n California Movers USA is a fully licensed and insured moving company in the state. The staff members are well trained and thorough professionals. The moving solutions are flexible and completely customized to the needs of their home or office customers. Moves can be scheduled during the week or on the weekend, during the daytime or late in the evening, according to the client convenience. California Movers USA is a leading relocation company in the state now. They have received many 5-star reviews from both home and office customers. ",
+        "pros": [
+          "Moves throughout the state",
+          "Fully licensed and insured",
+          "Both home and office moves",
+          "Large and small trucks",
+          "Timely arrival",
+          "Same team load, drive, unload",
+          "100% satisfaction guarantee",
+          "No hidden costs"
+        ],
+        "cons": [
+          "Does not provide international move",
+          "Works all over the west coast of the US only"
+        ]
+      }
+    }
+  ],
+  "replies": [
+    {
+      "name": "Kevin Duncan",
+      "comment": "Andrew did a fantastic job with our move. Went above and beyond in helping us assemble our furniture and helping place everything in the desired rooms. He even made sure to say hello to our dog. Will be letting our friends of the great service and recommending!!!",
+      "company": "California Movers USA",
+      "rating": 5,
+      "publishedAt": "2022-05-15"
+    },
+    {
+      "name": "Robert L.",
+      "comment": "Chris is awesome! Took great care to protect my new purchase during transportation, stuck to the original quote, and made quick work of the job. Highly recommended!",
+      "company": "California Movers USA",
+      "rating": 4.5,
+      "publishedAt": "2022-05-15"
+    },
+    {
+      "name": "Jacobe Jackson",
+      "comment": "I was in the market for a mover but had a really bad experience previously. A friend recommended Route 66 moving and I am so happy that they did. This was literally the opposite of what I was expecting: fast, easy, and completely hassle-free. I am super impressed by how.",
+      "company": "California Movers USA",
+      "rating": 4,
+      "publishedAt": "2022-05-15"
+    },
+    {
+      "name": "Kevin Duncan",
+      "comment": "Andrew did a fantastic job with our move. Went above and beyond in helping us assemble our furniture and helping place everything in the desired rooms. He even made sure to say hello to our dog. Will be letting our friends of the great service and recommending!!!",
+      "company": "Atlant Movers",
+      "rating": 5,
+      "publishedAt": "2022-08-15"
+    },
+    {
+      "name": "Robert L.",
+      "comment": "Chris is awesome! Took great care to protect my new purchase during transportation, stuck to the original quote, and made quick work of the job. Highly recommended!",
+      "company": "Atlant Movers",
+      "rating": 4.5,
+      "publishedAt": "2022-05-15"
+    },
+    {
+      "name": "Jacobe Jackson",
+      "comment": "I was in the market for a mover but had a really bad experience previously. A friend recommended Route 66 moving and I am so happy that they did. This was literally the opposite of what I was expecting: fast, easy, and completely hassle-free. I am super impressed by how.",
+      "company": "Atlant Movers",
+      "rating": 4,
+      "publishedAt": "2022-05-15"
+    },
+    {
+      "name": "Kevin Duncan",
+      "comment": "Andrew did a fantastic job with our move. Went above and beyond in helping us assemble our furniture and helping place everything in the desired rooms. He even made sure to say hello to our dog. Will be letting our friends of the great service and recommending!!!",
+      "company": "BlackHawk Movers",
+      "rating": 5,
+      "publishedAt": "2022-05-15"
+    },
+    {
+      "name": "Robert L.",
+      "comment": "Chris is awesome! Took great care to protect my new purchase during transportation, stuck to the original quote, and made quick work of the job. Highly recommended!",
+      "company": "BlackHawk Movers",
+      "rating": 4.5,
+      "publishedAt": "2022-05-15"
+    },
+    {
+      "name": "Jacobe Jackson",
+      "comment": "I was in the market for a mover but had a really bad experience previously. A friend recommended Route 66 moving and I am so happy that they did. This was literally the opposite of what I was expecting: fast, easy, and completely hassle-free. I am super impressed by how.",
+      "company": "BlackHawk Movers",
+      "rating": 4,
+      "publishedAt": "2022-05-15"
+    },
+    {
+      "name": "Kevin Duncan",
+      "comment": "Andrew did a fantastic job with our move. Went above and beyond in helping us assemble our furniture and helping place everything in the desired rooms. He even made sure to say hello to our dog. Will be letting our friends of the great service and recommending!!!",
+      "company": "Davidson Movers",
+      "rating": 5,
+      "publishedAt": "2022-05-15"
+    },
+    {
+      "name": "Robert L.",
+      "comment": "Chris is awesome! Took great care to protect my new purchase during transportation, stuck to the original quote, and made quick work of the job. Highly recommended!",
+      "company": "Davidson Movers",
+      "rating": 4.5,
+      "publishedAt": "2022-05-15"
+    },
+    {
+      "name": "Jacobe Jackson",
+      "comment": "I was in the market for a mover but had a really bad experience previously. A friend recommended Route 66 moving and I am so happy that they did. This was literally the opposite of what I was expecting: fast, easy, and completely hassle-free. I am super impressed by how.",
+      "company": "Davidson Movers",
+      "rating": 4,
+      "publishedAt": "2022-05-15"
+    },
+    {
+      "name": "Kevin Duncan",
+      "comment": "Andrew did a fantastic job with our move. Went above and beyond in helping us assemble our furniture and helping place everything in the desired rooms. He even made sure to say hello to our dog. Will be letting our friends of the great service and recommending!!!",
+      "company": "Nearme Moving",
+      "rating": 5,
+      "publishedAt": "2022-05-15"
+    },
+    {
+      "name": "Robert L.",
+      "comment": "Chris is awesome! Took great care to protect my new purchase during transportation, stuck to the original quote, and made quick work of the job. Highly recommended!",
+      "company": "Nearme Moving",
+      "rating": 4.5,
+      "publishedAt": "2022-05-15"
+    },
+    {
+      "name": "Jacobe Jackson",
+      "comment": "I was in the market for a mover but had a really bad experience previously. A friend recommended Route 66 moving and I am so happy that they did. This was literally the opposite of what I was expecting: fast, easy, and completely hassle-free. I am super impressed by how.",
+      "company": "Nearme Moving",
+      "rating": 4,
+      "publishedAt": "2022-05-15"
+    },
+    {
+      "name": "Kevin Duncan",
+      "comment": "Andrew did a fantastic job with our move. Went above and beyond in helping us assemble our furniture and helping place everything in the desired rooms. He even made sure to say hello to our dog. Will be letting our friends of the great service and recommending!!!",
+      "company": "AMS Bekins",
+      "rating": 5,
+      "publishedAt": "2022-05-15"
+    },
+    {
+      "name": "Robert L.",
+      "comment": "Chris is awesome! Took great care to protect my new purchase during transportation, stuck to the original quote, and made quick work of the job. Highly recommended!",
+      "company": "AMS Bekins",
+      "rating": 4.5,
+      "publishedAt": "2022-05-15"
+    },
+    {
+      "name": "Jacobe Jackson",
+      "comment": "I was in the market for a mover but had a really bad experience previously. A friend recommended Route 66 moving and I am so happy that they did. This was literally the opposite of what I was expecting: fast, easy, and completely hassle-free. I am super impressed by how.",
+      "company": "AMS Bekins",
+      "rating": 4,
+      "publishedAt": "2022-05-15"
+    },
+    {
+      "name": "Sarah Johnson",
+      "comment": "I was in the market for a mover but had a really bad experience previously. A friend recommended Route 66 moving and I am so happy that they did. This was literally the opposite of what I was expecting: fast, easy, and completely hassle-free. I am super impressed by how.",
+      "company": "California Movers USA",
+      "rating": 4,
+      "publishedAt": "2022-06-10"
+    },
+    {
+      "name": "Michael Smith",
+      "comment": "I was in the market for a mover but had a really bad experience previously. A friend recommended Route 66 moving and I am so happy that they did. This was literally the opposite of what I was expecting: fast, easy, and completely hassle-free. I am super impressed by how.",
+      "company": "California Movers USA",
+      "rating": 3,
+      "publishedAt": "2022-07-05"
+    },
+    {
+      "name": "Emily Brown",
+      "comment": "I was in the market for a mover but had a really bad experience previously. A friend recommended Route 66 moving and I am so happy that they did. This was literally the opposite of what I was expecting: fast, easy, and completely hassle-free. I am super impressed by how.",
+      "company": "Texas Movers LLC",
+      "rating": 5,
+      "publishedAt": "2022-05-25"
+    },
+    {
+      "name": "John Doe",
+      "comment": "I was in the market for a mover but had a really bad experience previously. A friend recommended Route 66 moving and I am so happy that they did. This was literally the opposite of what I was expecting: fast, easy, and completely hassle-free. I am super impressed by how.",
+      "company": "Texas Movers LLC",
+      "rating": 4,
+      "publishedAt": "2022-06-20"
+    },
+    {
+      "name": "Jessica Miller",
+      "comment": "I was in the market for a mover but had a really bad experience previously. A friend recommended Route 66 moving and I am so happy that they did. This was literally the opposite of what I was expecting: fast, easy, and completely hassle-free. I am super impressed by how.",
+      "company": "Texas Movers LLC",
+      "rating": 3,
+      "publishedAt": "2022-07-15"
+    },
+    {
+      "name": "Sophia Davis",
+      "comment": "I was in the market for a mover but had a really bad experience previously. A friend recommended Route 66 moving and I am so happy that they did. This was literally the opposite of what I was expecting: fast, easy, and completely hassle-free. I am super impressed by how.",
+      "company": "New York Moving Co",
+      "rating": 5,
+      "publishedAt": "2022-05-30"
+    },
+    {
+      "name": "James Wilson",
+      "comment": "I was in the market for a mover but had a really bad experience previously. A friend recommended Route 66 moving and I am so happy that they did. This was literally the opposite of what I was expecting: fast, easy, and completely hassle-free. I am super impressed by how.",
+      "company": "New York Moving Co",
+      "rating": 4,
+      "publishedAt": "2022-06-25"
+    },
+    {
+      "name": "Olivia Martinez",
+      "comment": "I was in the market for a mover but had a really bad experience previously. A friend recommended Route 66 moving and I am so happy that they did. This was literally the opposite of what I was expecting: fast, easy, and completely hassle-free. I am super impressed by how.",
+      "company": "New York Moving Co",
+      "rating": 3,
+      "publishedAt": "2022-07-20"
+    },
+    {
+      "name": "Liam Thompson",
+      "comment": "I was in the market for a mover but had a really bad experience previously. A friend recommended Route 66 moving and I am so happy that they did. This was literally the opposite of what I was expecting: fast, easy, and completely hassle-free. I am super impressed by how.",
+      "company": "Florida Moving Experts",
+      "rating": 5,
+      "publishedAt": "2022-06-01"
+    },
+    {
+      "name": "Emma Robinson",
+      "comment": "I was in the market for a mover but had a really bad experience previously. A friend recommended Route 66 moving and I am so happy that they did. This was literally the opposite of what I was expecting: fast, easy, and completely hassle-free. I am super impressed by how.",
+      "company": "Florida Moving Experts",
+      "rating": 4,
+      "publishedAt": "2022-07-01"
+    },
+    {
+      "name": "Alexander Lewis",
+      "comment": "I was in the market for a mover but had a really bad experience previously. A friend recommended Route 66 moving and I am so happy that they did. This was literally the opposite of what I was expecting: fast, easy, and completely hassle-free. I am super impressed by how.",
+      "company": "Florida Moving Experts",
+      "rating": 3,
+      "publishedAt": "2022-08-01"
+    },
+    {
+      "name": "William Anderson",
+      "comment": "I was in the market for a mover but had a really bad experience previously. A friend recommended Route 66 moving and I am so happy that they did. This was literally the opposite of what I was expecting: fast, easy, and completely hassle-free. I am super impressed by how.",
+      "company": "Chicago Relocators",
+      "rating": 5,
+      "publishedAt": "2022-06-05"
+    },
+    {
+      "name": "Mia Taylor",
+      "comment": "I was in the market for a mover but had a really bad experience previously. A friend recommended Route 66 moving and I am so happy that they did. This was literally the opposite of what I was expecting: fast, easy, and completely hassle-free. I am super impressed by how.",
+      "company": "Chicago Relocators",
+      "rating": 4,
+      "publishedAt": "2022-07-05"
+    },
+    {
+      "name": "Daniel Harris",
+      "comment": "I was in the market for a mover but had a really bad experience previously. A friend recommended Route 66 moving and I am so happy that they did. This was literally the opposite of what I was expecting: fast, easy, and completely hassle-free. I am super impressed by how.",
+      "company": "Chicago Relocators",
+      "rating": 3,
+      "publishedAt": "2022-08-05"
+    },
+    {
+      "name": "Isabella White",
+      "comment": "I was in the market for a mover but had a really bad experience previously. A friend recommended Route 66 moving and I am so happy that they did. This was literally the opposite of what I was expecting: fast, easy, and completely hassle-free. I am super impressed by how.",
+      "company": "Nevada Movers",
+      "rating": 5,
+      "publishedAt": "2022-06-10"
+    },
+    {
+      "name": "Elijah Clark",
+      "comment": "I was in the market for a mover but had a really bad experience previously. A friend recommended Route 66 moving and I am so happy that they did. This was literally the opposite of what I was expecting: fast, easy, and completely hassle-free. I am super impressed by how.",
+      "company": "Nevada Movers",
+      "rating": 4,
+      "publishedAt": "2022-07-10"
+    },
+    {
+      "name": "Amelia Hall",
+      "comment": "I was in the market for a mover but had a really bad experience previously. A friend recommended Route 66 moving and I am so happy that they did. This was literally the opposite of what I was expecting: fast, easy, and completely hassle-free. I am super impressed by how.",
+      "company": "Nevada Movers",
+      "rating": 5,
+      "publishedAt": "2022-08-10"
+    },
+    {
+      "name": "Ethan Young",
+      "comment": "I was in the market for a mover but had a really bad experience previously. A friend recommended Route 66 moving and I am so happy that they did. This was literally the opposite of what I was expecting: fast, easy, and completely hassle-free. I am super impressed by how.",
+      "company": "Washington State Movers",
+      "rating": 5,
+      "publishedAt": "2022-06-15"
+    },
+    {
+      "name": "Ava King",
+      "comment": "I was in the market for a mover but had a really bad experience previously. A friend recommended Route 66 moving and I am so happy that they did. This was literally the opposite of what I was expecting: fast, easy, and completely hassle-free. I am super impressed by how.",
+      "company": "Washington State Movers",
+      "rating": 4,
+      "publishedAt": "2022-07-15"
+    },
+    {
+      "name": "Lucas Wright",
+      "comment": "I was in the market for a mover but had a really bad experience previously. A friend recommended Route 66 moving and I am so happy that they did. This was literally the opposite of what I was expecting: fast, easy, and completely hassle-free. I am super impressed by how.",
+      "company": "Washington State Movers",
+      "rating": 3,
+      "publishedAt": "2022-08-15"
+    },
+    {
+      "name": "Charlotte Scott",
+      "comment": "I was in the market for a mover but had a really bad experience previously. A friend recommended Route 66 moving and I am so happy that they did. This was literally the opposite of what I was expecting: fast, easy, and completely hassle-free. I am super impressed by how.",
+      "company": "Arizona Relocation",
+      "rating": 5,
+      "publishedAt": "2022-06-20"
+    },
+    {
+      "name": "Henry Green",
+      "comment": "I was in the market for a mover but had a really bad experience previously. A friend recommended Route 66 moving and I am so happy that they did. This was literally the opposite of what I was expecting: fast, easy, and completely hassle-free. I am super impressed by how.",
+      "company": "Arizona Relocation",
+      "rating": 4,
+      "publishedAt": "2020-07-20"
+    },
+    {
+      "name": "Mason Adams",
+      "comment": "I was in the market for a mover but had a really bad experience previously. A friend recommended Route 66 moving and I am so happy that they did. This was literally the opposite of what I was expecting: fast, easy, and completely hassle-free. I am super impressed by how.",
+      "company": "Arizona Relocation",
+      "rating": 3.5,
+      "publishedAt": "2021-08-20"
+    },
+    {
+      "name": "Olivia Parker",
+      "comment": "I was in the market for a mover but had a really bad experience previously. A friend recommended Route 66 moving and I am so happy that they did. This was literally the opposite of what I was expecting: fast, easy, and completely hassle-free. I am super impressed by how.",
+      "company": "Colorado Movers Group",
+      "rating": 5,
+      "publishedAt": "2022-06-25"
+    },
+    {
+      "name": "Jackson Nelson",
+      "comment": "I was in the market for a mover but had a really bad experience previously. A friend recommended Route 66 moving and I am so happy that they did. This was literally the opposite of what I was expecting: fast, easy, and completely hassle-free. I am super impressed by how.",
+      "company": "Colorado Movers Group",
+      "rating": 4,
+      "publishedAt": "2022-07-25"
+    },
+    {
+      "name": "Lily Bennett",
+      "comment": "I was in the market for a mover but had a really bad experience previously. A friend recommended Route 66 moving and I am so happy that they did. This was literally the opposite of what I was expecting: fast, easy, and completely hassle-free. I am super impressed by how.",
+      "company": "Colorado Movers Group",
+      "rating": 5,
+      "publishedAt": "2022-05-25"
+    },
+    {
+      "id": "2024-10-03T18:43:43.715Z",
+      "comment": "IT WAS AWFUL!",
+      "name": "User",
+      "company": "Atlant Movers",
+      "rating": 1,
+      "publishedAt": "2024-10-03T18:43:43.715Z"
+    },
+    {
+      "id": 1727981882586,
+      "comment": "It was great! ",
+      "name": "David",
+      "company": "AMS Bekins",
+      "rating": 4,
+      "publishedAt": "2024-10-03"
+    },
+    {
+      "id": 1727984409046,
+      "comment": "Not bad, but drivers could be more friendly",
+      "name": "User",
+      "company": "AMS Bekins",
+      "rating": 3,
+      "publishedAt": "2024-10-03"
+    },
+    {
+      "id": 1729281117756,
+      "comment": "Some text",
+      "name": "User",
+      "company": "Kevin Duncan",
+      "rating": 5,
+      "publishedAt": "2024-10-18"
+    },
+    {
+      "id": 1729457875095,
+      "comment": "Some text",
+      "name": "User",
+      "company": "Kevin Duncan",
+      "rating": 5,
+      "publishedAt": "2024-10-20"
+    },
+    {
+      "id": 1729457878028,
+      "comment": "Some text",
+      "name": "User",
+      "company": "Kevin Duncan",
+      "rating": 5,
+      "publishedAt": "2024-10-20"
+    },
+    {
+      "id": 1729540869929,
+      "comment": "Some text",
+      "name": "User",
+      "company": "Kevin Duncan",
+      "rating": 5,
+      "publishedAt": "2024-10-21"
+    },
+    {
+      "id": 1729540942302,
+      "comment": "",
+      "name": "User",
+      "company": "Kevin Duncan",
+      "rating": 5,
+      "publishedAt": "2024-10-21"
+    },
+    {
+      "id": 1729540965321,
+      "comment": "Some text",
+      "name": "User",
+      "company": "Kevin Duncan",
+      "rating": 5,
+      "publishedAt": "2024-10-21"
+    },
+    {
+      "id": 1729541070489,
+      "comment": "Some text",
+      "name": "User",
+      "company": "Kevin Duncan",
+      "rating": 5,
+      "publishedAt": "2024-10-21"
+    },
+    {
+      "id": 1729541137294,
+      "comment": "",
+      "name": "User",
+      "company": "Kevin Duncan",
+      "rating": 5,
+      "publishedAt": "2024-10-21"
+    },
+    {
+      "id": 1729541145005,
+      "comment": "Some text",
+      "name": "User",
+      "company": "Kevin Duncan",
+      "rating": 5,
+      "publishedAt": "2024-10-21"
+    },
+    {
+      "id": 1729541177819,
+      "comment": "Some text",
+      "name": "User",
+      "company": "Kevin Duncan",
+      "rating": 5,
+      "publishedAt": "2024-10-21"
+    },
+    {
+      "id": 1729541392370,
+      "comment": "Some text",
+      "name": "User",
+      "company": "Kevin Duncan",
+      "rating": 5,
+      "publishedAt": "2024-10-21"
+    },
+    {
+      "id": 1729541502100,
+      "comment": "Some text",
+      "name": "User",
+      "company": "Kevin Duncan",
+      "rating": 5,
+      "publishedAt": "2024-10-21"
+    },
+    {
+      "id": 1729541672026,
+      "comment": "Some text",
+      "name": "User",
+      "company": "Kevin Duncan",
+      "rating": 5,
+      "publishedAt": "2024-10-21"
+    },
+    {
+      "id": 1729541814366,
+      "comment": "Some text",
+      "name": "User",
+      "company": "Kevin Duncan",
+      "rating": 5,
+      "publishedAt": "2024-10-21"
+    },
+    {
+      "id": 1729542135206,
+      "comment": "Some text",
+      "name": "User",
+      "company": "Kevin Duncan",
+      "rating": 5,
+      "publishedAt": "2024-10-21"
+    },
+    {
+      "id": 1729542215090,
+      "comment": "Some text",
+      "name": "User",
+      "company": "Kevin Duncan",
+      "rating": 5,
+      "publishedAt": "2024-10-21"
+    },
+    {
+      "id": 1729542342504,
+      "comment": "Some text",
+      "name": "User",
+      "company": "Kevin Duncan",
+      "rating": 5,
+      "publishedAt": "2024-10-21"
+    },
+    {
+      "id": 1729542511429,
+      "comment": "Some text",
+      "name": "User",
+      "company": "Kevin Duncan",
+      "rating": 5,
+      "publishedAt": "2024-10-21"
+    },
+    {
+      "id": 1729543533004,
+      "comment": "Some text",
+      "name": "User",
+      "company": "Kevin Duncan",
+      "rating": 5,
+      "publishedAt": "2024-10-21"
+    },
+    {
+      "id": 1729543557912,
+      "comment": "Some text",
+      "name": "User",
+      "company": "Kevin Duncan",
+      "rating": 5,
+      "publishedAt": "2024-10-21"
+    },
+    {
+      "id": 1729543647172,
+      "comment": "Some text",
+      "name": "User",
+      "company": "Kevin Duncan",
+      "rating": 5,
+      "publishedAt": "2024-10-21"
+    },
+    {
+      "id": 1729543886744,
+      "comment": "Some text",
+      "name": "User",
+      "company": "Kevin Duncan",
+      "rating": 5,
+      "publishedAt": "2024-10-21"
+    },
+    {
+      "id": 1729544379686,
+      "comment": "Some text",
+      "name": "User",
+      "company": "Kevin Duncan",
+      "rating": 5,
+      "publishedAt": "2024-10-21"
+    },
+    {
+      "id": 1729544395492,
+      "comment": "Some text",
+      "name": "User",
+      "company": "Kevin Duncan",
+      "rating": 5,
+      "publishedAt": "2024-10-21"
+    },
+    {
+      "id": 1729544420904,
+      "comment": "Some text",
+      "name": "User",
+      "company": "Kevin Duncan",
+      "rating": 5,
+      "publishedAt": "2024-10-21"
+    },
+    {
+      "id": 1729544452822,
+      "comment": "Some text",
+      "name": "User",
+      "company": "Kevin Duncan",
+      "rating": 5,
+      "publishedAt": "2024-10-21"
+    },
+    {
+      "id": 1729544476261,
+      "comment": "Some text",
+      "name": "User",
+      "company": "Kevin Duncan",
+      "rating": 5,
+      "publishedAt": "2024-10-21"
+    },
+    {
+      "id": 1729544539301,
+      "comment": "",
+      "name": "User",
+      "company": "Kevin Duncan",
+      "rating": 5,
+      "publishedAt": "2024-10-21"
+    },
+    {
+      "id": 1729544557434,
+      "comment": "Some text",
+      "name": "User",
+      "company": "Kevin Duncan",
+      "rating": 5,
+      "publishedAt": "2024-10-21"
+    },
+    {
+      "id": 1729605652721,
+      "comment": "Some text",
+      "name": "User",
+      "company": "Kevin Duncan",
+      "rating": 5,
+      "publishedAt": "2024-10-22"
+    },
+    {
+      "id": 1729605673669,
+      "comment": "Some text",
+      "name": "User",
+      "company": "Kevin Duncan",
+      "rating": 5,
+      "publishedAt": "2024-10-22"
+    },
+    {
+      "id": 1729607767792,
+      "comment": "Some text",
+      "name": "User",
+      "company": "Kevin Duncan",
+      "rating": 5,
+      "publishedAt": "2024-10-22"
+    },
+    {
+      "id": 1729608349633,
+      "comment": "Some text",
+      "name": "User",
+      "company": "Kevin Duncan",
+      "rating": 5,
+      "publishedAt": "2024-10-22"
+    },
+    {
+      "id": 1729621831461,
+      "comment": "Some text",
+      "name": "User",
+      "company": "Kevin Duncan",
+      "rating": 5,
+      "publishedAt": "2024-10-22"
+    },
+    {
+      "id": 1729621904248,
+      "comment": "Some text",
+      "name": "User",
+      "company": "Kevin Duncan",
+      "rating": 5,
+      "publishedAt": "2024-10-22"
+    },
+    {
+      "id": 1729622576387,
+      "comment": "Some text",
+      "name": "User",
+      "company": "Kevin Duncan",
+      "rating": 5,
+      "publishedAt": "2024-10-22"
+    },
+    {
+      "id": 1729622592852,
+      "comment": "Some text",
+      "name": "User",
+      "company": "Kevin Duncan",
+      "rating": 5,
+      "publishedAt": "2024-10-22"
+    },
+    {
+      "id": 1729622730671,
+      "comment": "Some text",
+      "name": "User",
+      "company": "Kevin Duncan",
+      "rating": 5,
+      "publishedAt": "2024-10-22"
+    },
+    {
+      "id": 1729622773318,
+      "comment": "Some text",
+      "name": "User",
+      "company": "Kevin Duncan",
+      "rating": 5,
+      "publishedAt": "2024-10-22"
+    },
+    {
+      "id": 1729622888401,
+      "comment": "Some text",
+      "name": "User",
+      "company": "Kevin Duncan",
+      "rating": 5,
+      "publishedAt": "2024-10-22"
+    },
+    {
+      "id": 1729622908221,
+      "comment": "Some text",
+      "name": "User",
+      "company": "Kevin Duncan",
+      "rating": 5,
+      "publishedAt": "2024-10-22"
+    },
+    {
+      "id": 1729622973135,
+      "comment": "Some text",
+      "name": "User",
+      "company": "Kevin Duncan",
+      "rating": 5,
+      "publishedAt": "2024-10-22"
+    }
+  ],
+  "tips-tricks": [
+    {
+      "id": 1,
+      "cardLogo": "/moving_pricing.png",
+      "name": "Moving Pricing",
+      "cardDescription": "A moving service or hiring a relocating company is not usually cheap irrespective of how far you will be moving. But most people who have.",
+      "publishedAt": "2020-12-20",
+      "info": {
+        "articleImage": "/location_main.png",
+        "paragraphs": [
+          {
+            "paragraphTitle": "",
+            "paragraphText": "Moving to a new state is always more complicated than a local move. It is costlier and also needs more planning. There are many critical decisions to make. Decide whether you want to hire state-to-state movers or a long-distance moving truck rental service. Consider which one of your belongings should make the long journey. You must also decide where your things will arrive when the trip ends. \n\n Here is a checklist of state to state moving that will help you."
+          },
+          {
+            "paragraphTitle": "Plan Ahead",
+            "paragraphText": "Moving from one state to another needs more planning. That’s because, it’s a longer journey, and also, there are more complications when you cross a state border. Find movers and packers that have the required knowledge and experience of interstate moving. Ask questions and compare the quotes. More than the pricing, find out whether they can move to another state without any hassles. Make sure that the move is adequately insured. This will give you peace of mind. \n\n Every state has its own regulations about items that can be brought in from other states. All rules and regulations have to be followed even if your things are moving in trucks. So the moving company you hire should know the specific regulations of the state you are moving to. The company must also have proper licensing and permits."
+          },
+          {
+            "paragraphTitle": "Finalize Housing Before Moving",
+            "paragraphText": "This sounds obvious, but you will be surprised to know that many people still have housing issues even when they are planning the move. If you are renting, make sure that the rent agreement is signed. If you are buying a new property, ensure that it is ready for you to move into."
+          },
+          {
+            "paragraphTitle": "Visit The New State Before You Move",
+            "paragraphText": "Spend a week at least in your new state before the move. More so if you haven’t been there before. This will give you a feel of the place. Wander around in the city and your new neighborhood. Speak to a few neighbors. Take your kids to their new school. Visit a shopping mall and park. This should make everyone in the family excited."
+          },
+          {
+            "paragraphTitle": "Interstate Moving Costs",
+            "paragraphText": "Here is an average estimate of moving a 2-bedroom house."
+          }
+        ],
+        "table": {
+          "head": [
+            [
+              "State to State Move",
+              "Professional",
+              "Rental truck"
+            ]
+          ],
+          "body": [
+            [
+              "California to New York",
+              "$3,893 to $5,670",
+              "$2,308 to $2,915"
+            ],
+            [
+              "Texas to Florida",
+              "$2,200 to $3,550",
+              "$1,107 to $1,494"
+            ],
+            [
+              "Georgia to Kansas",
+              "$1,920 to $3,450",
+              "$1,107 to $1,494"
+            ]
+          ]
+        }
+      },
+      "comments": [
+        {
+          "id": 12312,
+          "userComment": "Somebody know where is full version?",
+          "publishedAt": "2021-03-28",
+          "comments": [
+            {
+              "id": 32312,
+              "userComment": "No, it might have been deleted",
+              "publishedAt": "2021-03-29",
+              "comments": []
+            },
+            {
+              "id": 22312,
+              "userComment": "Yes, here is: link",
+              "publishedAt": "2021-04-01",
+              "comments": [
+                {
+                  "id": 231234,
+                  "userComment": "Thanks!",
+                  "publishedAt": "2021-04-01",
+                  "comments": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "cardLogo": "/moving_top_things.png",
+      "name": "Top Things to do After House Moving",
+      "cardDescription": "Moving is a stress for most people. So once the move is completed, it is likely that you will be relieved",
+      "publishedAt": "2020-11-20",
+      "info": {
+        "articleImage": "/location_main.png",
+        "paragraphs": [
+          {
+            "paragraphTitle": "",
+            "paragraphText": "Moving to a new state is always more complicated than a local move. It is costlier and also needs more planning. There are many critical decisions to make. Decide whether you want to hire state-to-state movers or a long-distance moving truck rental service. Consider which one of your belongings should make the long journey. You must also decide where your things will arrive when the trip ends. \n\n Here is a checklist of state to state moving that will help you."
+          },
+          {
+            "paragraphTitle": "Plan Ahead",
+            "paragraphText": "Moving from one state to another needs more planning. That’s because, it’s a longer journey, and also, there are more complications when you cross a state border. Find movers and packers that have the required knowledge and experience of interstate moving. Ask questions and compare the quotes. More than the pricing, find out whether they can move to another state without any hassles. Make sure that the move is adequately insured. This will give you peace of mind. \n\n Every state has its own regulations about items that can be brought in from other states. All rules and regulations have to be followed even if your things are moving in trucks. So the moving company you hire should know the specific regulations of the state you are moving to. The company must also have proper licensing and permits."
+          },
+          {
+            "paragraphTitle": "Finalize Housing Before Moving",
+            "paragraphText": "This sounds obvious, but you will be surprised to know that many people still have housing issues even when they are planning the move. If you are renting, make sure that the rent agreement is signed. If you are buying a new property, ensure that it is ready for you to move into."
+          },
+          {
+            "paragraphTitle": "Visit The New State Before You Move",
+            "paragraphText": "Spend a week at least in your new state before the move. More so if you haven’t been there before. This will give you a feel of the place. Wander around in the city and your new neighborhood. Speak to a few neighbors. Take your kids to their new school. Visit a shopping mall and park. This should make everyone in the family excited."
+          },
+          {
+            "paragraphTitle": "Interstate Moving Costs",
+            "paragraphText": "Here is an average estimate of moving a 2-bedroom house."
+          }
+        ]
+      },
+      "comments": []
+    },
+    {
+      "id": 3,
+      "cardLogo": "/moving_load.png",
+      "name": "State to State Moving",
+      "cardDescription": "A moving service or hiring a relocating company is not usually cheap irrespective of how far you will be moving. But most people who have.",
+      "publishedAt": "2020-12-10",
+      "info": {
+        "articleImage": "/location_main.png",
+        "paragraphs": [
+          {
+            "paragraphTitle": "",
+            "paragraphText": "Moving to a new state is always more complicated than a local move. It is costlier and also needs more planning. There are many critical decisions to make. Decide whether you want to hire state-to-state movers or a long-distance moving truck rental service. Consider which one of your belongings should make the long journey. You must also decide where your things will arrive when the trip ends. \n\n Here is a checklist of state to state moving that will help you."
+          },
+          {
+            "paragraphTitle": "Plan Ahead",
+            "paragraphText": "Moving from one state to another needs more planning. That’s because, it’s a longer journey, and also, there are more complications when you cross a state border. Find movers and packers that have the required knowledge and experience of interstate moving. Ask questions and compare the quotes. More than the pricing, find out whether they can move to another state without any hassles. Make sure that the move is adequately insured. This will give you peace of mind. \n\n Every state has its own regulations about items that can be brought in from other states. All rules and regulations have to be followed even if your things are moving in trucks. So the moving company you hire should know the specific regulations of the state you are moving to. The company must also have proper licensing and permits."
+          },
+          {
+            "paragraphTitle": "Finalize Housing Before Moving",
+            "paragraphText": "This sounds obvious, but you will be surprised to know that many people still have housing issues even when they are planning the move. If you are renting, make sure that the rent agreement is signed. If you are buying a new property, ensure that it is ready for you to move into."
+          },
+          {
+            "paragraphTitle": "Visit The New State Before You Move",
+            "paragraphText": "Spend a week at least in your new state before the move. More so if you haven’t been there before. This will give you a feel of the place. Wander around in the city and your new neighborhood. Speak to a few neighbors. Take your kids to their new school. Visit a shopping mall and park. This should make everyone in the family excited."
+          },
+          {
+            "paragraphTitle": "Interstate Moving Costs",
+            "paragraphText": "Here is an average estimate of moving a 2-bedroom house."
+          }
+        ],
+        "table": {
+          "head": [
+            [
+              "State to State Move",
+              "Professional",
+              "Rental truck"
+            ]
+          ],
+          "body": [
+            [
+              "California to New York",
+              "$3,893 to $5,670",
+              "$2,308 to $2,915"
+            ],
+            [
+              "Texas to Florida",
+              "$2,200 to $3,550",
+              "$1,107 to $1,494"
+            ],
+            [
+              "Georgia to Kansas",
+              "$1,920 to $3,450",
+              "$1,107 to $1,494"
+            ]
+          ]
+        }
+      },
+      "comments": [
+        {
+          "id": 123412,
+          "userComment": "Somebody know where is full version?",
+          "publishedAt": "2021-03-28",
+          "comments": [
+            {
+              "id": 323132,
+              "userComment": "No, it might have been deleted",
+              "publishedAt": "2021-03-29",
+              "comments": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "cardLogo": "/moving_delivery.png",
+      "name": "Corporate Relocation",
+      "cardDescription": "Moving is a stress for most people. So once the move is completed, it is likely that you will be relieved",
+      "publishedAt": "2021-01-10",
+      "info": {
+        "articleImage": "/location_main.png",
+        "paragraphs": [
+          {
+            "paragraphTitle": "",
+            "paragraphText": "Moving to a new state is always more complicated than a local move. It is costlier and also needs more planning. There are many critical decisions to make. Decide whether you want to hire state-to-state movers or a long-distance moving truck rental service. Consider which one of your belongings should make the long journey. You must also decide where your things will arrive when the trip ends. \n\n Here is a checklist of state to state moving that will help you."
+          },
+          {
+            "paragraphTitle": "Plan Ahead",
+            "paragraphText": "Moving from one state to another needs more planning. That’s because, it’s a longer journey, and also, there are more complications when you cross a state border. Find movers and packers that have the required knowledge and experience of interstate moving. Ask questions and compare the quotes. More than the pricing, find out whether they can move to another state without any hassles. Make sure that the move is adequately insured. This will give you peace of mind. \n\n Every state has its own regulations about items that can be brought in from other states. All rules and regulations have to be followed even if your things are moving in trucks. So the moving company you hire should know the specific regulations of the state you are moving to. The company must also have proper licensing and permits."
+          },
+          {
+            "paragraphTitle": "Finalize Housing Before Moving",
+            "paragraphText": "This sounds obvious, but you will be surprised to know that many people still have housing issues even when they are planning the move. If you are renting, make sure that the rent agreement is signed. If you are buying a new property, ensure that it is ready for you to move into."
+          },
+          {
+            "paragraphTitle": "Visit The New State Before You Move",
+            "paragraphText": "Spend a week at least in your new state before the move. More so if you haven’t been there before. This will give you a feel of the place. Wander around in the city and your new neighborhood. Speak to a few neighbors. Take your kids to their new school. Visit a shopping mall and park. This should make everyone in the family excited."
+          },
+          {
+            "paragraphTitle": "Interstate Moving Costs",
+            "paragraphText": "Here is an average estimate of moving a 2-bedroom house."
+          }
+        ]
+      },
+      "comments": [
+        {
+          "id": 123112,
+          "userComment": "Good!",
+          "publishedAt": "2021-03-28",
+          "comments": []
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "cardLogo": "/moving_check.png",
+      "name": "Top Things to do After House Moving",
+      "cardDescription": "A moving service or hiring a relocating company is not usually cheap irrespective of how far you will be moving. But most people who have.",
+      "publishedAt": "2020-12-25",
+      "info": {
+        "articleImage": "/location_main.png",
+        "paragraphs": [
+          {
+            "paragraphTitle": "",
+            "paragraphText": "Moving to a new state is always more complicated than a local move. It is costlier and also needs more planning. There are many critical decisions to make. Decide whether you want to hire state-to-state movers or a long-distance moving truck rental service. Consider which one of your belongings should make the long journey. You must also decide where your things will arrive when the trip ends. \n\n Here is a checklist of state to state moving that will help you."
+          },
+          {
+            "paragraphTitle": "Plan Ahead",
+            "paragraphText": "Moving from one state to another needs more planning. That’s because, it’s a longer journey, and also, there are more complications when you cross a state border. Find movers and packers that have the required knowledge and experience of interstate moving. Ask questions and compare the quotes. More than the pricing, find out whether they can move to another state without any hassles. Make sure that the move is adequately insured. This will give you peace of mind. \n\n Every state has its own regulations about items that can be brought in from other states. All rules and regulations have to be followed even if your things are moving in trucks. So the moving company you hire should know the specific regulations of the state you are moving to. The company must also have proper licensing and permits."
+          },
+          {
+            "paragraphTitle": "Finalize Housing Before Moving",
+            "paragraphText": "This sounds obvious, but you will be surprised to know that many people still have housing issues even when they are planning the move. If you are renting, make sure that the rent agreement is signed. If you are buying a new property, ensure that it is ready for you to move into."
+          },
+          {
+            "paragraphTitle": "Visit The New State Before You Move",
+            "paragraphText": "Spend a week at least in your new state before the move. More so if you haven’t been there before. This will give you a feel of the place. Wander around in the city and your new neighborhood. Speak to a few neighbors. Take your kids to their new school. Visit a shopping mall and park. This should make everyone in the family excited."
+          },
+          {
+            "paragraphTitle": "Interstate Moving Costs",
+            "paragraphText": "Here is an average estimate of moving a 2-bedroom house."
+          }
+        ],
+        "table": {
+          "head": [
+            [
+              "State to State Move",
+              "Professional",
+              "Rental truck"
+            ]
+          ],
+          "body": [
+            [
+              "California to New York",
+              "$3,893 to $5,670",
+              "$2,308 to $2,915"
+            ],
+            [
+              "Texas to Florida",
+              "$2,200 to $3,550",
+              "$1,107 to $1,494"
+            ],
+            [
+              "Georgia to Kansas",
+              "$1,920 to $3,450",
+              "$1,107 to $1,494"
+            ]
+          ]
+        }
+      },
+      "comments": []
+    },
+    {
+      "id": 6,
+      "cardLogo": "/moving_unload.png",
+      "name": "Corporate Relocation",
+      "cardDescription": "Moving is a stress for most people. So once the move is completed, it is likely that you will be relieved",
+      "publishedAt": "2020-12-20",
+      "info": {
+        "articleImage": "/location_main.png",
+        "paragraphs": [
+          {
+            "paragraphTitle": "",
+            "paragraphText": "Moving to a new state is always more complicated than a local move. It is costlier and also needs more planning. There are many critical decisions to make. Decide whether you want to hire state-to-state movers or a long-distance moving truck rental service. Consider which one of your belongings should make the long journey. You must also decide where your things will arrive when the trip ends. \n\n Here is a checklist of state to state moving that will help you."
+          },
+          {
+            "paragraphTitle": "Plan Ahead",
+            "paragraphText": "Moving from one state to another needs more planning. That’s because, it’s a longer journey, and also, there are more complications when you cross a state border. Find movers and packers that have the required knowledge and experience of interstate moving. Ask questions and compare the quotes. More than the pricing, find out whether they can move to another state without any hassles. Make sure that the move is adequately insured. This will give you peace of mind. \n\n Every state has its own regulations about items that can be brought in from other states. All rules and regulations have to be followed even if your things are moving in trucks. So the moving company you hire should know the specific regulations of the state you are moving to. The company must also have proper licensing and permits."
+          },
+          {
+            "paragraphTitle": "Finalize Housing Before Moving",
+            "paragraphText": "This sounds obvious, but you will be surprised to know that many people still have housing issues even when they are planning the move. If you are renting, make sure that the rent agreement is signed. If you are buying a new property, ensure that it is ready for you to move into."
+          },
+          {
+            "paragraphTitle": "Visit The New State Before You Move",
+            "paragraphText": "Spend a week at least in your new state before the move. More so if you haven’t been there before. This will give you a feel of the place. Wander around in the city and your new neighborhood. Speak to a few neighbors. Take your kids to their new school. Visit a shopping mall and park. This should make everyone in the family excited."
+          },
+          {
+            "paragraphTitle": "Interstate Moving Costs",
+            "paragraphText": "Here is an average estimate of moving a 2-bedroom house."
+          }
+        ],
+        "table": {
+          "head": [
+            [
+              "State to State Move",
+              "Professional",
+              "Rental truck"
+            ]
+          ],
+          "body": [
+            [
+              "California to New York",
+              "$3,893 to $5,670",
+              "$2,308 to $2,915"
+            ],
+            [
+              "Texas to Florida",
+              "$2,200 to $3,550",
+              "$1,107 to $1,494"
+            ],
+            [
+              "Georgia to Kansas",
+              "$1,920 to $3,450",
+              "$1,107 to $1,494"
+            ]
+          ]
+        }
+      },
+      "comments": [
+        {
+          "id": 123122,
+          "userComment": "That one wasn't useful",
+          "publishedAt": "2021-03-28",
+          "comments": []
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "cardLogo": "/moving_delivery_woman.png",
+      "name": "Moving Pricing",
+      "cardDescription": "A moving service or hiring a relocating company is not usually cheap irrespective of how far you will be moving. But most people who have.",
+      "publishedAt": "2020-12-20",
+      "info": {
+        "articleImage": "/location_main.png",
+        "paragraphs": [
+          {
+            "paragraphTitle": "",
+            "paragraphText": "Moving to a new state is always more complicated than a local move. It is costlier and also needs more planning. There are many critical decisions to make. Decide whether you want to hire state-to-state movers or a long-distance moving truck rental service. Consider which one of your belongings should make the long journey. You must also decide where your things will arrive when the trip ends. \n\n Here is a checklist of state to state moving that will help you."
+          },
+          {
+            "paragraphTitle": "Plan Ahead",
+            "paragraphText": "Moving from one state to another needs more planning. That’s because, it’s a longer journey, and also, there are more complications when you cross a state border. Find movers and packers that have the required knowledge and experience of interstate moving. Ask questions and compare the quotes. More than the pricing, find out whether they can move to another state without any hassles. Make sure that the move is adequately insured. This will give you peace of mind. \n\n Every state has its own regulations about items that can be brought in from other states. All rules and regulations have to be followed even if your things are moving in trucks. So the moving company you hire should know the specific regulations of the state you are moving to. The company must also have proper licensing and permits."
+          },
+          {
+            "paragraphTitle": "Finalize Housing Before Moving",
+            "paragraphText": "This sounds obvious, but you will be surprised to know that many people still have housing issues even when they are planning the move. If you are renting, make sure that the rent agreement is signed. If you are buying a new property, ensure that it is ready for you to move into."
+          },
+          {
+            "paragraphTitle": "Visit The New State Before You Move",
+            "paragraphText": "Spend a week at least in your new state before the move. More so if you haven’t been there before. This will give you a feel of the place. Wander around in the city and your new neighborhood. Speak to a few neighbors. Take your kids to their new school. Visit a shopping mall and park. This should make everyone in the family excited."
+          },
+          {
+            "paragraphTitle": "Interstate Moving Costs",
+            "paragraphText": "Here is an average estimate of moving a 2-bedroom house."
+          }
+        ]
+      },
+      "comments": []
+    },
+    {
+      "id": 8,
+      "cardLogo": "/moving_paying.png",
+      "name": "Top Things to do After Moving",
+      "cardDescription": "A moving service or hiring a relocating company is not usually cheap irrespective of how far you will be moving. But most people who have.",
+      "publishedAt": "2020-12-20",
+      "info": {
+        "articleImage": "/location_main.png",
+        "paragraphs": [
+          {
+            "paragraphTitle": "",
+            "paragraphText": "Moving to a new state is always more complicated than a local move. It is costlier and also needs more planning. There are many critical decisions to make. Decide whether you want to hire state-to-state movers or a long-distance moving truck rental service. Consider which one of your belongings should make the long journey. You must also decide where your things will arrive when the trip ends. \n\n Here is a checklist of state to state moving that will help you."
+          },
+          {
+            "paragraphTitle": "Plan Ahead",
+            "paragraphText": "Moving from one state to another needs more planning. That’s because, it’s a longer journey, and also, there are more complications when you cross a state border. Find movers and packers that have the required knowledge and experience of interstate moving. Ask questions and compare the quotes. More than the pricing, find out whether they can move to another state without any hassles. Make sure that the move is adequately insured. This will give you peace of mind. \n\n Every state has its own regulations about items that can be brought in from other states. All rules and regulations have to be followed even if your things are moving in trucks. So the moving company you hire should know the specific regulations of the state you are moving to. The company must also have proper licensing and permits."
+          },
+          {
+            "paragraphTitle": "Finalize Housing Before Moving",
+            "paragraphText": "This sounds obvious, but you will be surprised to know that many people still have housing issues even when they are planning the move. If you are renting, make sure that the rent agreement is signed. If you are buying a new property, ensure that it is ready for you to move into."
+          },
+          {
+            "paragraphTitle": "Visit The New State Before You Move",
+            "paragraphText": "Spend a week at least in your new state before the move. More so if you haven’t been there before. This will give you a feel of the place. Wander around in the city and your new neighborhood. Speak to a few neighbors. Take your kids to their new school. Visit a shopping mall and park. This should make everyone in the family excited."
+          },
+          {
+            "paragraphTitle": "Interstate Moving Costs",
+            "paragraphText": "Here is an average estimate of moving a 2-bedroom house."
+          }
+        ],
+        "table": {
+          "head": [
+            [
+              "State to State Move",
+              "Professional",
+              "Rental truck"
+            ]
+          ],
+          "body": [
+            [
+              "California to New York",
+              "$3,893 to $5,670",
+              "$2,308 to $2,915"
+            ],
+            [
+              "Texas to Florida",
+              "$2,200 to $3,550",
+              "$1,107 to $1,494"
+            ],
+            [
+              "Georgia to Kansas",
+              "$1,920 to $3,450",
+              "$1,107 to $1,494"
+            ]
+          ]
+        }
+      },
+      "comments": [
+        {
+          "id": 12311342,
+          "userComment": "Interesting...",
+          "publishedAt": "2021-03-28",
+          "comments": []
+        }
+      ]
+    },
+    {
+      "(req, res, ctx) ": "> {\n        return res(ctx.status(200), ctx.json({\n          message: \"Update successful from play function\"\n        }));\n      }",
+      "id": 9
+    },
+    {
+      "(req, res, ctx) ": "> {\n        return res(ctx.status(200), ctx.json({\n          message: \"Update successful from play function\"\n        }));\n      }",
+      "id": 10
+    }
+  ]
+}

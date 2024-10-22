@@ -1,0 +1,25 @@
+.path {
+    width: 95%;
+    max-width: 1370px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 6px;
+    a, span {
+        font-size: 18px;
+        font-weight: 500;
+        line-height: 48px;
+        color: rgba($color: #000000, $alpha: 0.6);
+        text-transform: capitalize;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        &:hover {
+            color: #06965C;;
+        }
+    }
+    svg {
+        width: 20px;
+        height: 20px;
+    }
+}

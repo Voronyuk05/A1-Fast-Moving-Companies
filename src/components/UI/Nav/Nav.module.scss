@@ -1,0 +1,28 @@
+.navigation {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: flex-start;
+    a {
+        font-weight: 600;
+    }
+    .active {
+        position: relative;
+        &::before {
+            position: absolute;
+            bottom: -10px;
+            content: '';
+            width: 100%;
+            height: 2px;
+            background-color: #06965C;
+            transition: 0.4s;
+        }
+    }
+    @media screen and (max-width: 1200px) {
+        flex-direction: row;
+        a {
+            font-size: 26px;
+            color: white;
+        }
+    }
+}

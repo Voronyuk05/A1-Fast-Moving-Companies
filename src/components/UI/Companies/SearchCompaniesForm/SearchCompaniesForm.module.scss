@@ -1,0 +1,15 @@
+
+.search_form {
+    width: 100%;
+    height: 80px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    input, textarea, select, > div {
+        width: 320px;
+    }
+}

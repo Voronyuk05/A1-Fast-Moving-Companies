@@ -1,0 +1,79 @@
+.reply_form {
+    width: 100%;
+    min-height: 740px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #F9F9F9;
+    .container {
+        width: 95%;
+        max-width: 1370px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 40px; 
+        .title {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          gap: 15px;
+          .error {
+            width: 70%;
+            height: 40px;
+            background-color: rgba($color: #c51e1e, $alpha: 0.4);
+            border: #c51e1e 1px solid;
+            border-radius: 5px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+          }
+        }
+        .form {
+            width: 95%;
+            max-width: 650px;
+            display: flex;
+            flex-wrap: wrap;
+            flex-direction: row;
+            align-items: center;
+            justify-content: center;
+            gap: 30px;
+            > label {
+                width: 47%;
+                display: flex;
+                flex-direction: column;
+                gap: 10px;
+                input, > div {
+                    width: 100%;
+                }
+                .input_date {
+                    height: 50px;
+                    position: relative;
+                    display: flex;
+                    align-items: center;
+                    justify-content: space-between;
+                    padding: 0px 20px 0px 20px;
+                    border: 1px #D1D1D1 solid;
+                    border-radius: 5px;
+                    background-color: #fff;
+                }
+            }
+            .move_size {
+              width: 100%;
+              flex-direction: row;
+              display: flex;
+              align-items: center;
+              justify-content: center;
+              gap: 20px;
+              label {
+                position: relative;
+                input {
+                    width: 25px;
+                    height: 25px;
+                }
+              }
+            }
+        }
+    }
+}

@@ -1,0 +1,42 @@
+.article {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-block: 50px;
+    .container {
+      width: 95%;
+      max-width: 1370px;
+      display: flex;
+      flex-direction: row;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 100px;
+      .content {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 40px;
+        hr {
+          width: 100%;
+        }
+        .top_bar {
+          display: flex;
+          flex-direction: row;
+          align-items: center;
+          justify-content: flex-start;
+          gap: 20px;
+        }
+        .article_text {
+          display: flex;
+          flex-direction: column;
+          gap: 20px;
+          h4, p {
+            margin-bottom: 20px;
+          }
+        }
+      }
+    }
+}

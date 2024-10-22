@@ -1,0 +1,24 @@
+.custom_big_checkbox input[type="checkbox"] {
+    position: absolute;
+    left: -9999px;
+}
+  
+.custom_big_checkbox {
+    cursor: pointer;
+    display: inline-block;
+}
+  
+.custom_big_checkbox__checkbox {
+    display: inline-block;
+    border-radius: 5px;
+    width: 26px;
+    height: 26px;
+    border: 2px solid silver;
+    transition: border 0.3s ease;
+}
+  
+.custom_big_checkbox input[type="checkbox"]:checked + .custom_big_checkbox__checkbox {
+    background: url('../../../../public/check_mark.svg') center center no-repeat;
+    background-size: contain;
+    border-radius: 5px;
+}

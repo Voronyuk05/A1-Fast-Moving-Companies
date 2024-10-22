@@ -1,0 +1,17 @@
+.stars {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 5px;
+}
+
+.active_star {
+    color: #06965C;
+    width: 12px;
+    height: 12px;
+}
+.unactive_star {
+  color: #E5E5E5;
+  width: 14px;
+  height: 14px;
+}

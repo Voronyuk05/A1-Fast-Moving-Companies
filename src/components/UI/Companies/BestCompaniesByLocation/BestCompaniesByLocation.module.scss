@@ -1,0 +1,13 @@
+.title {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 25px;
+    a {
+        color: #06965C;
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+}

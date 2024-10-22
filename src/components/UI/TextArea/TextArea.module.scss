@@ -1,0 +1,25 @@
+.text_area {
+    width: 400px;
+    height: 110px;
+    padding: 12px;
+    border-radius: 10px;
+    border: 1px #D1D1D1 solid;
+    outline: none;
+    @media screen and (max-width: 480px) {
+        width: 300px;
+        .input {
+          width: 300px;
+        } 
+    }
+    @media screen and (max-width: 320px) {
+        width: 250px;
+        .input {
+          height: 40px;
+          width: 250px;
+          padding: 10px;
+          border-radius: 15px;
+          border: 1px #22343D solid;
+          outline: none;
+        } 
+      }
+}

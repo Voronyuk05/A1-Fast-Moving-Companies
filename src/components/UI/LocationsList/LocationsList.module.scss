@@ -1,0 +1,36 @@
+.locations {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-block: 50px;
+    .container {
+        width: 95%;
+        max-width: 1370px;
+        height: 300px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 40px;
+        border-radius: 10px;
+        background-color: #F9F9F9;
+        .locations_list {
+            list-style: none;
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            justify-content: center;
+            gap: 30px;
+            .location_item {
+                a {
+                    font-size: 25px;
+                    color: #06965C;;
+                    &:hover {
+                        color: #7EDE2C;
+                    }
+                }
+            }
+        }
+    }
+}

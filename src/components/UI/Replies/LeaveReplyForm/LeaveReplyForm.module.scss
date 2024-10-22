@@ -1,0 +1,42 @@
+.reply_form {
+    width: 100%;
+    min-height: 740px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #F9F9F9;
+    .container {
+        width: 95%;
+        max-width: 1370px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 40px; 
+        .title {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          gap: 15px;
+        }
+        .form {
+            width: 95%;
+            max-width: 650px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            gap: 30px;
+            label {
+                width: 100%;
+                display: flex;
+                flex-direction: column;
+                gap: 10px;
+                textarea, input, > div {
+                    width: 100%;
+                }
+            }
+        }
+    }
+}
