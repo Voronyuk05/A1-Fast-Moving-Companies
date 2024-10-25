@@ -1,0 +1,33 @@
+
+> a1-fast-moving-companies@0.1.0 build-storybook
+> storybook build --output-dir=C:\Users\GAMEON~1\AppData\Local\Temp\chromatic--15440-EFh0B3odPpku
+
+@storybook/core v8.3.6
+
+info => Cleaning outputDir: C:\Users\GAMEON~1\AppData\Local\Temp\chromatic--15440-EFh0B3odPpku
+info => Loading presets
+info => Building manager..
+info => Manager built (123 ms)
+info => Building preview..
+info => Using implicit CSS loaders
+info => Using SWC as compiler
+[addon-coverage] Adding istanbul loader to Webpack config
+info => Using default Webpack5 setup
+WARN asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).
+WARN This can impact web performance.
+WARN Assets: 
+WARN   8609.b06abb65.iframe.bundle.js (561 KiB)
+WARN   2780.2845645e.iframe.bundle.js (1.71 MiB)
+WARN   2182.f945fe0c.iframe.bundle.js (1.24 MiB)
+WARN   7284.2d2c708a.iframe.bundle.js (1.94 MiB)
+WARN   3849.1e99037a.iframe.bundle.js (1.74 MiB)
+WARN   9575.46478519.iframe.bundle.js (324 KiB)
+WARN entrypoint size limit: The following entrypoint(s) combined asset size exceeds the recommended limit (244 KiB). This can impact web performance.
+WARN Entrypoints:
+WARN   main (1.73 MiB)
+WARN       runtime~main.e9233109.iframe.bundle.js
+WARN       2780.2845645e.iframe.bundle.js
+WARN       main.1894b7b8.iframe.bundle.js
+WARN 
+info => Preview built (6.96 s)
+info => Output directory: C:\Users\GAMEON~1\AppData\Local\Temp\chromatic--15440-EFh0B3odPpku

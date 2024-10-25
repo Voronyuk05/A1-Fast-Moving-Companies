@@ -4,7 +4,6 @@ import { useEffect, useState } from 'react';
 import { IoSearch } from "react-icons/io5";
 import { Nav } from '../../UI/Nav/Nav';
 import { Logo } from '@/components/UI/Logo/Logo';
-import { Headings } from '../../UI/Headings/Headings';
 import { useGetCompaniesBySearchParams } from "@/hooks/useGetCompaniesBySearchParams";
 import styles from './Header.module.scss'
 import Link from "next/link";
@@ -41,7 +40,6 @@ export const Header = () => {
                         <Nav />
                     </div>
                     <div className={styles.actions}>
-                        <Headings heading='h5' color='black' weight='600'>Get quote</Headings>
                         <div className={`${isSearch ? styles.showed_input : ''} ${styles.wrapper_input}`}>
                             <input type="text" placeholder="What are you looking for" value={query} onChange={(e) => setQuery(e.currentTarget.value)}/>
                             <IoSearch onClick={handleSearch} />

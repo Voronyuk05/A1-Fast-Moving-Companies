@@ -20,8 +20,7 @@ const imb = Nunito({
   display: 'swap',
   variable: '--font-zen',
   style: 'normal' 
-});
-
+})
 
 const preview: Preview = {
   parameters: {
@@ -40,7 +39,7 @@ const preview: Preview = {
         </QueryClientProvider>
       </main>
     )
-  ]
+  ],
 };
 
 export default preview;

@@ -41,7 +41,6 @@ export const FulfilledSubmit: Story = {
         });
 
         await userEvent.click(canvas.getByTestId('submit_button'))
-        await canvas.findByTestId('success')
         await expect(await canvas.findByTestId('success')).toBeDefined()
     }
 }

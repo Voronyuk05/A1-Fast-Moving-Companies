@@ -34,7 +34,9 @@ export const CompanyPageHero = ({data, reviews}:  {data: ICompany, reviews: numb
         );
     }
 
-    const handleCopy = (value: string) => {
+    const handleCopy = async (value: string) => {
+        console.log(await navigator.clipboard.readText());
+        
         navigator.clipboard.writeText(value)
         toast('Copied',
             {
@@ -72,7 +74,7 @@ export const CompanyPageHero = ({data, reviews}:  {data: ICompany, reviews: numb
                     <RiMapPin2Fill/>
                     <SelectEl selectedOption={location} setSelectedOption={handleSelectLocation} options={locationsFilterArray} />
                 </div>
-                <div className={styles.comunication} onClick={() => handleCopy(tel)}>
+                <div className={styles.comunication} onClick={() => handleCopy(tel)} data-testid='tel_copy_text'>
                     <MdLocalPhone />
                     <Headings heading='h4' color='black' weight='500'>{tel}</Headings>
                 </div>

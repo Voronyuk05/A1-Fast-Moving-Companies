@@ -1,6 +1,5 @@
 import type { Meta, StoryObj } from '@storybook/react';
 import { GetQuoteForm } from '@/components/UI/Companies/getQuoteForm/GetQuoteForm';
-
 import {  expect, userEvent, within } from '@storybook/test';
 import { testCompanyData } from './testData';
 
@@ -10,6 +9,9 @@ const meta = {
     parameters: {
         nextjs: {
           appDirectory: true,
+        },
+        chromatic: { 
+            delay: 2000, // Add a delay for async content
         },
     },
 } satisfies Meta<typeof GetQuoteForm>;
@@ -37,15 +39,14 @@ export const FulfilledSubmit: Story = {
         const date = canvas.getByTestId('date');
         const name = canvas.getByTestId('name');
         const tel = canvas.getByTestId('tel');
+        const radioInput = canvas.getAllByTestId('radio_input')[1]
 
         await userEvent.type(zipCodeFrom, '12345', {
             delay: 10,
         });
-
         await userEvent.type(zipCodeTo, '54321', {
             delay: 10,
         });
-
         await userEvent.type(mail, 'mail@gmail.com', {
             delay: 10,
         });
@@ -58,10 +59,13 @@ export const FulfilledSubmit: Story = {
         await userEvent.type(tel, '+7001924581', {
             delay: 10,
         });
+        await userEvent.click(radioInput)
 
         await userEvent.click(canvas.getByTestId('submit_button'))
+        
         await expect(await canvas.findByTestId('success')).toBeDefined()
-    }
+    },
+
 }
 
 export const RejectedSubmit: Story = {

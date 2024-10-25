@@ -105,19 +105,19 @@ export const GetQuoteForm = ({companyData}: {companyData: ICompany}) => {
                     </label>
                     <div className={styles.move_size}>
                         <label htmlFor="">
-                            <RadioInput handleChange={hanldeChangeMoveSize} label='Studio' value='Studio' checked={moveSize === 'Studio'}/>
+                            <RadioInput handleChange={hanldeChangeMoveSize} label='Studio' value='Studio' data-testid='radio_input' checked={moveSize === 'Studio'}/>
                         </label>
                         <label htmlFor="">
-                            <RadioInput handleChange={hanldeChangeMoveSize} label='2-bedroom' value='2-bedroom' checked={moveSize === '2-bedroom'}/>
+                            <RadioInput handleChange={hanldeChangeMoveSize} label='2-bedroom' value='2-bedroom' data-testid='radio_input' checked={moveSize === '2-bedroom'}/>
                         </label>
                         <label htmlFor="">
-                            <RadioInput handleChange={hanldeChangeMoveSize} label='3-bedroom' value='3-bedroom' checked={moveSize === '3-bedroom'}/>
+                            <RadioInput handleChange={hanldeChangeMoveSize} label='3-bedroom' value='3-bedroom' data-testid='radio_input' checked={moveSize === '3-bedroom'}/>
                         </label>
                         <label htmlFor="">
-                            <RadioInput handleChange={hanldeChangeMoveSize} label='Office' value='Office' checked={moveSize === 'Office'}/>
+                            <RadioInput handleChange={hanldeChangeMoveSize} label='Office' value='Office' data-testid='radio_input' checked={moveSize === 'Office'}/>
                         </label>
                         <label htmlFor="">
-                            <RadioInput handleChange={hanldeChangeMoveSize} label='Other' value='Other' checked={moveSize === 'Other'}/>
+                            <RadioInput handleChange={hanldeChangeMoveSize} label='Other' value='Other' data-testid='radio_input' checked={moveSize === 'Other'}/>
                         </label>
                     </div>
                     <PrimaryButton data-testid='submit_button'>Post reply</PrimaryButton>

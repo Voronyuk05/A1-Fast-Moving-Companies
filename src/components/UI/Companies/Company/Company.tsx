@@ -84,9 +84,9 @@ export const Company = ({id, logo, name, addres, tags, tel, rating, services, in
                     <MdLocalPhone/>
                     <Headings heading='h4' weight='500' color='black'>{`${tel}`}</Headings>
                 </div>
-                <div className={styles.services}>
+                <div className={styles.services} data-testid='services_label'>
                     <Headings heading='h5' color='primary' weight='500'><>{`Services +${services.length} `} <MdKeyboardArrowDown className={styles.arrow_icon}/></></Headings>
-                    <ul className={styles.services_list}>
+                    <ul className={styles.services_list} data-testid='services_list'>
                         {services.map((service, index) => (
                             <li key={index} >{service}</li>
                         ))}

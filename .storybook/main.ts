@@ -20,7 +20,8 @@ const config: StorybookConfig = {
       name: '@storybook/addon-coverage',
       options: coverageConfig,
     },
-    "@chromatic-com/storybook"
+    "@chromatic-com/storybook",
+    '@storybook/addon-actions'
   ],
   framework: {
     name: "@storybook/nextjs",

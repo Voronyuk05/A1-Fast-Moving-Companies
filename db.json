@@ -303,7 +303,7 @@
         "popular"
       ],
       "tel": "(415) 579-2747",
-      "rating": 4.5,
+      "rating": 3.6,
       "services": [
         "Local Movers",
         "Long Distance",
@@ -2214,340 +2214,12 @@
       "publishedAt": "2024-10-03"
     },
     {
-      "id": 1729281117756,
-      "comment": "Some text",
+      "id": 1729799686403,
+      "comment": "Bad Service",
       "name": "User",
-      "company": "Kevin Duncan",
-      "rating": 5,
-      "publishedAt": "2024-10-18"
-    },
-    {
-      "id": 1729457875095,
-      "comment": "Some text",
-      "name": "User",
-      "company": "Kevin Duncan",
-      "rating": 5,
-      "publishedAt": "2024-10-20"
-    },
-    {
-      "id": 1729457878028,
-      "comment": "Some text",
-      "name": "User",
-      "company": "Kevin Duncan",
-      "rating": 5,
-      "publishedAt": "2024-10-20"
-    },
-    {
-      "id": 1729540869929,
-      "comment": "Some text",
-      "name": "User",
-      "company": "Kevin Duncan",
-      "rating": 5,
-      "publishedAt": "2024-10-21"
-    },
-    {
-      "id": 1729540942302,
-      "comment": "",
-      "name": "User",
-      "company": "Kevin Duncan",
-      "rating": 5,
-      "publishedAt": "2024-10-21"
-    },
-    {
-      "id": 1729540965321,
-      "comment": "Some text",
-      "name": "User",
-      "company": "Kevin Duncan",
-      "rating": 5,
-      "publishedAt": "2024-10-21"
-    },
-    {
-      "id": 1729541070489,
-      "comment": "Some text",
-      "name": "User",
-      "company": "Kevin Duncan",
-      "rating": 5,
-      "publishedAt": "2024-10-21"
-    },
-    {
-      "id": 1729541137294,
-      "comment": "",
-      "name": "User",
-      "company": "Kevin Duncan",
-      "rating": 5,
-      "publishedAt": "2024-10-21"
-    },
-    {
-      "id": 1729541145005,
-      "comment": "Some text",
-      "name": "User",
-      "company": "Kevin Duncan",
-      "rating": 5,
-      "publishedAt": "2024-10-21"
-    },
-    {
-      "id": 1729541177819,
-      "comment": "Some text",
-      "name": "User",
-      "company": "Kevin Duncan",
-      "rating": 5,
-      "publishedAt": "2024-10-21"
-    },
-    {
-      "id": 1729541392370,
-      "comment": "Some text",
-      "name": "User",
-      "company": "Kevin Duncan",
-      "rating": 5,
-      "publishedAt": "2024-10-21"
-    },
-    {
-      "id": 1729541502100,
-      "comment": "Some text",
-      "name": "User",
-      "company": "Kevin Duncan",
-      "rating": 5,
-      "publishedAt": "2024-10-21"
-    },
-    {
-      "id": 1729541672026,
-      "comment": "Some text",
-      "name": "User",
-      "company": "Kevin Duncan",
-      "rating": 5,
-      "publishedAt": "2024-10-21"
-    },
-    {
-      "id": 1729541814366,
-      "comment": "Some text",
-      "name": "User",
-      "company": "Kevin Duncan",
-      "rating": 5,
-      "publishedAt": "2024-10-21"
-    },
-    {
-      "id": 1729542135206,
-      "comment": "Some text",
-      "name": "User",
-      "company": "Kevin Duncan",
-      "rating": 5,
-      "publishedAt": "2024-10-21"
-    },
-    {
-      "id": 1729542215090,
-      "comment": "Some text",
-      "name": "User",
-      "company": "Kevin Duncan",
-      "rating": 5,
-      "publishedAt": "2024-10-21"
-    },
-    {
-      "id": 1729542342504,
-      "comment": "Some text",
-      "name": "User",
-      "company": "Kevin Duncan",
-      "rating": 5,
-      "publishedAt": "2024-10-21"
-    },
-    {
-      "id": 1729542511429,
-      "comment": "Some text",
-      "name": "User",
-      "company": "Kevin Duncan",
-      "rating": 5,
-      "publishedAt": "2024-10-21"
-    },
-    {
-      "id": 1729543533004,
-      "comment": "Some text",
-      "name": "User",
-      "company": "Kevin Duncan",
-      "rating": 5,
-      "publishedAt": "2024-10-21"
-    },
-    {
-      "id": 1729543557912,
-      "comment": "Some text",
-      "name": "User",
-      "company": "Kevin Duncan",
-      "rating": 5,
-      "publishedAt": "2024-10-21"
-    },
-    {
-      "id": 1729543647172,
-      "comment": "Some text",
-      "name": "User",
-      "company": "Kevin Duncan",
-      "rating": 5,
-      "publishedAt": "2024-10-21"
-    },
-    {
-      "id": 1729543886744,
-      "comment": "Some text",
-      "name": "User",
-      "company": "Kevin Duncan",
-      "rating": 5,
-      "publishedAt": "2024-10-21"
-    },
-    {
-      "id": 1729544379686,
-      "comment": "Some text",
-      "name": "User",
-      "company": "Kevin Duncan",
-      "rating": 5,
-      "publishedAt": "2024-10-21"
-    },
-    {
-      "id": 1729544395492,
-      "comment": "Some text",
-      "name": "User",
-      "company": "Kevin Duncan",
-      "rating": 5,
-      "publishedAt": "2024-10-21"
-    },
-    {
-      "id": 1729544420904,
-      "comment": "Some text",
-      "name": "User",
-      "company": "Kevin Duncan",
-      "rating": 5,
-      "publishedAt": "2024-10-21"
-    },
-    {
-      "id": 1729544452822,
-      "comment": "Some text",
-      "name": "User",
-      "company": "Kevin Duncan",
-      "rating": 5,
-      "publishedAt": "2024-10-21"
-    },
-    {
-      "id": 1729544476261,
-      "comment": "Some text",
-      "name": "User",
-      "company": "Kevin Duncan",
-      "rating": 5,
-      "publishedAt": "2024-10-21"
-    },
-    {
-      "id": 1729544539301,
-      "comment": "",
-      "name": "User",
-      "company": "Kevin Duncan",
-      "rating": 5,
-      "publishedAt": "2024-10-21"
-    },
-    {
-      "id": 1729544557434,
-      "comment": "Some text",
-      "name": "User",
-      "company": "Kevin Duncan",
-      "rating": 5,
-      "publishedAt": "2024-10-21"
-    },
-    {
-      "id": 1729605652721,
-      "comment": "Some text",
-      "name": "User",
-      "company": "Kevin Duncan",
-      "rating": 5,
-      "publishedAt": "2024-10-22"
-    },
-    {
-      "id": 1729605673669,
-      "comment": "Some text",
-      "name": "User",
-      "company": "Kevin Duncan",
-      "rating": 5,
-      "publishedAt": "2024-10-22"
-    },
-    {
-      "id": 1729607767792,
-      "comment": "Some text",
-      "name": "User",
-      "company": "Kevin Duncan",
-      "rating": 5,
-      "publishedAt": "2024-10-22"
-    },
-    {
-      "id": 1729608349633,
-      "comment": "Some text",
-      "name": "User",
-      "company": "Kevin Duncan",
-      "rating": 5,
-      "publishedAt": "2024-10-22"
-    },
-    {
-      "id": 1729621831461,
-      "comment": "Some text",
-      "name": "User",
-      "company": "Kevin Duncan",
-      "rating": 5,
-      "publishedAt": "2024-10-22"
-    },
-    {
-      "id": 1729621904248,
-      "comment": "Some text",
-      "name": "User",
-      "company": "Kevin Duncan",
-      "rating": 5,
-      "publishedAt": "2024-10-22"
-    },
-    {
-      "id": 1729622576387,
-      "comment": "Some text",
-      "name": "User",
-      "company": "Kevin Duncan",
-      "rating": 5,
-      "publishedAt": "2024-10-22"
-    },
-    {
-      "id": 1729622592852,
-      "comment": "Some text",
-      "name": "User",
-      "company": "Kevin Duncan",
-      "rating": 5,
-      "publishedAt": "2024-10-22"
-    },
-    {
-      "id": 1729622730671,
-      "comment": "Some text",
-      "name": "User",
-      "company": "Kevin Duncan",
-      "rating": 5,
-      "publishedAt": "2024-10-22"
-    },
-    {
-      "id": 1729622773318,
-      "comment": "Some text",
-      "name": "User",
-      "company": "Kevin Duncan",
-      "rating": 5,
-      "publishedAt": "2024-10-22"
-    },
-    {
-      "id": 1729622888401,
-      "comment": "Some text",
-      "name": "User",
-      "company": "Kevin Duncan",
-      "rating": 5,
-      "publishedAt": "2024-10-22"
-    },
-    {
-      "id": 1729622908221,
-      "comment": "Some text",
-      "name": "User",
-      "company": "Kevin Duncan",
-      "rating": 5,
-      "publishedAt": "2024-10-22"
-    },
-    {
-      "id": 1729622973135,
-      "comment": "Some text",
-      "name": "User",
-      "company": "Kevin Duncan",
-      "rating": 5,
-      "publishedAt": "2024-10-22"
+      "company": "Nearme Moving",
+      "rating": 1,
+      "publishedAt": "2024-10-24"
     }
   ],
   "tips-tricks": [
@@ -2629,6 +2301,19 @@
                   "id": 231234,
                   "userComment": "Thanks!",
                   "publishedAt": "2021-04-01",
+                  "comments": []
+                }
+              ]
+            },
+            {
+              "id": 1729799746215,
+              "userComment": "Here is :Link",
+              "publishedAt": "2024-10-24",
+              "comments": [
+                {
+                  "id": 1729799753906,
+                  "userComment": "You dalbayob",
+                  "publishedAt": "2024-10-24",
                   "comments": []
                 }
               ]
@@ -3006,14 +2691,6 @@
           "comments": []
         }
       ]
-    },
-    {
-      "(req, res, ctx) ": "> {\n        return res(ctx.status(200), ctx.json({\n          message: \"Update successful from play function\"\n        }));\n      }",
-      "id": 9
-    },
-    {
-      "(req, res, ctx) ": "> {\n        return res(ctx.status(200), ctx.json({\n          message: \"Update successful from play function\"\n        }));\n      }",
-      "id": 10
     }
   ]
 }
