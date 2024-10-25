@@ -1,11 +1,10 @@
 import ArticleLayout from "./articleLayout";
 
 
-export default function Location({children}: {children: React.ReactNode}) {
+export default function Location() {
   return (
     <>
       <ArticleLayout />
-      {children}
     </>
   );
 }

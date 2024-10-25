@@ -1,11 +1,10 @@
 import TipsTricksLayout from './tipsTricks';
 
 
-export default function TipsTricks({children}: {children: React.ReactNode}) {
+export default function TipsTricks() {
   return (
     < >
       <TipsTricksLayout/>
-      {children}
     </>
   );
 }
