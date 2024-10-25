@@ -7,9 +7,10 @@ import 'swiper/css/free-mode'
 import 'swiper/scss/thumbs'
 import Image from 'next/image';
 import styles from './CompanySwiper.module.scss'
+import * as SwiperTypes from 'swiper/types';
 
 export const CompanySwiper = ({images}: {images: string[]}) => {
-    const [thumbsSwiper, setThumbsSwiper] = useState()
+    const [thumbsSwiper, setThumbsSwiper] = useState<SwiperTypes.Swiper>()
 
     return ( 
             <>
