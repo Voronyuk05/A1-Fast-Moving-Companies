@@ -1,10 +1,9 @@
 import AddReply from "./addReply";
 
-export default function CompanyPage({children}: {children: React.ReactNode}) {
+export default function CompanyPage() {
     return (
       <>
         <AddReply />
-        {children}
       </>
     );
   }
