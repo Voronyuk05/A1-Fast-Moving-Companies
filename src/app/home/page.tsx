@@ -1,5 +1,5 @@
-import dynamic from 'next/dynamic';
-const HomeLayout = dynamic(() => import('./home'))
+
+import HomeLayout from './home';
 
 
 export default function Home({children}: {children: React.ReactNode}) {

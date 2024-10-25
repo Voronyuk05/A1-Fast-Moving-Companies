@@ -3,8 +3,8 @@ import { useEffect } from "react";
 import { HeroBar } from '../../components/UI/HeroBar/HeroBar';
 import { Headings } from '../../components/UI/Headings/Headings';
 import { Path } from '../../components/UI/Path/Path';
-import { LocationsList } from '../../components/UI/LocationsList/LocationsList';
 import { TipsTricksSection } from '../../components/UI/TicksTricks/TipsTricksSection/TipsTricksSection';
+import SearchCompanies from '../../components/UI/Companies/SearchCompanies/SearchCompanies';
 
 
 export default function TipsTricksLayout() {
@@ -20,7 +20,7 @@ export default function TipsTricksLayout() {
       </HeroBar>
       <Path/>
       <TipsTricksSection />
-      <LocationsList />
+      <SearchCompanies />
 
     </>
   )

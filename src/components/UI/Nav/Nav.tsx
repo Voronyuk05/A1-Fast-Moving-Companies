@@ -10,7 +10,6 @@ export const Nav = () => {
         <nav className={styles.navigation}>
             <Link className={`${path.includes('/home') ? styles.active : ''}`} href='/home'>Home</Link>
             <Link className={`${path.includes('/location') ? styles.active : ''}`} href='/location'>Location</Link>
-            <Link className={`${path.includes('/services') ? styles.active : ''}`} href='/services'>Services</Link>
             <Link className={`${path.includes('/tips-tricks') ? styles.active : ''}`} href='/tips-tricks'>Tips & Tricks</Link>
         </nav>
     )

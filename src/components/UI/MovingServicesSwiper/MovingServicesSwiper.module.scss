@@ -9,10 +9,17 @@
     justify-content: flex-end;
     padding-bottom: 70px;
     background-color: #EBFAFD;
+    border: #EBFAFD 2px solid;
     border-radius: 15px;
+    transition: 0.3s;
     img {
       position: absolute;
       top: -30%;
     }
+    &:hover {
+      background-color: #fff;
+      transition: 0.3s;
+    }
   }
+
 }
